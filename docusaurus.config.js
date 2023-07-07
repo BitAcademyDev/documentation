@@ -87,8 +87,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Student docs',
+                to: '/docs/students',
+              },
+              {
+                label: 'Coach docs',
+                to: '/docs/coaches',
               },
             ],
           },
