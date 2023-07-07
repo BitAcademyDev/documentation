@@ -41,9 +41,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,17 +54,17 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Jarvis Docs',
         logo: {
           alt: 'Bit Academy Logo',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_white.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/BitAcademyDev/documentation',
@@ -75,6 +72,13 @@ const config = {
             position: 'right',
           },
         ],
+      },
+      themeConfig: {
+        colorMode: {
+          defaultMode: 'light',
+          disableSwitch: false,
+          respectPrefersColorScheme: true,
+        },
       },
       footer: {
         style: 'dark',
