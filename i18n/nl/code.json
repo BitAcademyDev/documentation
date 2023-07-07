@@ -273,10 +273,28 @@
   "homePage.diveIn": {
     "message": "Duik er in"
   },
-  "siteTitle": {
+  "homePage.features.learnByDoing.title": {
+    "message": "Leren door te doen"
+  },
+  "homePage.features.learnByDoing.content": {
+    "message": "Jarvis leren door te doen"
+  },
+  "homePage.features.autonomy.title": {
+    "message": "Autonomie"
+  },
+  "homePage.features.autonomy.content": {
+    "message": "Jarvis laat jouw keuzes maken, welke kant jij op wilt en wat jij vandaag wilt doen."
+  },
+  "homePage.features.community.title": {
+    "message": "Community"
+  },
+  "homePage.features.community.content": {
+    "message": "We leren het meest door samen te werken"
+  },
+  "site.Title": {
     "message": "Jarvis Docs"
   },
-  "siteTagLine": {
+  "site.TagLine": {
     "message": "Eind gebruiker documentatie voor jarvis.bit-academy.nl"
   }
 }

@@ -2,7 +2,6 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -52,12 +51,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         logo: {
           alt: 'Bit Academy Logo',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo_white.svg',
+          src: 'img/logo.svg'
         },
         items: [
           {
@@ -80,8 +78,7 @@ const config = {
       themeConfig: {
         colorMode: {
           defaultMode: 'light',
-          disableSwitch: false,
-          respectPrefersColorScheme: true,
+          disableSwitch: true // Doesn't seem to work
         },
       },
       footer: {
@@ -121,8 +118,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Bit Academy B.V.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightCodeTheme
       },
     }),
 };
