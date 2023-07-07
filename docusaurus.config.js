@@ -60,9 +60,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'studentSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Students',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'staffSidebar',
+            position: 'left',
+            label: 'Staff',
           },
           {
             type: 'localeDropdown',
@@ -78,7 +84,8 @@ const config = {
       themeConfig: {
         colorMode: {
           defaultMode: 'light',
-          disableSwitch: true // Doesn't seem to work
+          disableSwitch: true, // Doesn't seem to work
+          respectPrefersColorScheme: false,
         },
       },
       footer: {

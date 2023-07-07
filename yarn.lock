@@ -1494,7 +1494,7 @@
     "@docusaurus/utils-validation" "2.4.1"
     tslib "^2.4.0"
 
-"@docusaurus/plugin-sitemap@2.4.1":
+"@docusaurus/plugin-sitemap@^2.4.1", "@docusaurus/plugin-sitemap@2.4.1":
   version "2.4.1"
   resolved "https://registry.npmjs.org/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.4.1.tgz"
   integrity sha512-lZx+ijt/+atQ3FVE8FOHV/+X3kuok688OydDXrqKRJyXBJZKgGjA2Qa8RjQ4f27V2woaXhtnyrdPop/+OjVMRg==

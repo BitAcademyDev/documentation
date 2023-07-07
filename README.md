@@ -30,3 +30,5 @@ service.
 
 After editing react components & sidebars run `npm run docusaurus write-translations` this will update `i18n/en` json
 files that can then be copied to different languages
+
+Testing with another locale `npm run start -- --locale nl`

@@ -3,12 +3,12 @@
     "message": "Volgende",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Students": {
-    "message": "Studenten",
-    "description": "The label for category Students in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Coaches": {
+  "sidebar.staffSidebar.category.Coaches": {
     "message": "Coaches",
-    "description": "The label for category Coaches in sidebar tutorialSidebar"
+    "description": "The label for category Coaches in sidebar staffSidebar"
+  },
+  "sidebar.staffSidebar.category.Editor": {
+    "message": "Editor",
+    "description": "The label for category Editor in sidebar staffSidebar"
   }
 }
