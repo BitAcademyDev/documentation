@@ -272,5 +272,11 @@
   },
   "homePage.diveIn": {
     "message": "Dive in"
+  },
+  "siteTitle": {
+    "message": "Jarvis Docs"
+  },
+  "siteTagLine": {
+    "message": "End user documentation for jarvis.bit-academy.nl"
   }
 }

@@ -6,7 +6,8 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
-import Translate from '@docusaurus/Translate';
+import Translate, {translate} from '@docusaurus/Translate';
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -31,11 +32,10 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="End user documentation for jarvis.bit-academy.nl">
+      title={translate({message: "siteTitle"})}
+      description={translate({message: "siteTagLine"})}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
