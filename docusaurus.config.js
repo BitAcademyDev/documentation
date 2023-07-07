@@ -95,12 +95,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Student docs',
+                label: 'Student',
                 to: '/docs/students',
               },
               {
-                label: 'Coach docs',
-                to: '/docs/coaches',
+                label: 'Staff',
+                to: '/docs/staff',
               },
             ],
           },
