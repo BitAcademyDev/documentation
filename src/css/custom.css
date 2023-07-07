@@ -12,6 +12,7 @@ body {
 /* You can override the default Infima variables here. */
 :root {
     --bit-purple: rgb(171, 125, 232);
+    --bit-blue: rgb(26, 129, 255);
     --ifm-color-primary: #ffa200;
     --ifm-color-primary-dark: #d98a00;
     --ifm-color-primary-darker: #cc8200;
@@ -76,5 +77,5 @@ body {
 }
 
 .footer--dark {
-    background-color: var(--bit-purple);
+    background-color: var(--bit-blue);
 }
