@@ -76,8 +76,10 @@ const config = {
           },
           {
             href: 'https://github.com/BitAcademyDev/documentation',
+            'aria-label': 'GitHub repository',
             label: 'GitHub',
             position: 'right',
+            className: 'navbar-github-link',
           },
         ],
       },
