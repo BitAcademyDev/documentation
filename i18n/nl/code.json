@@ -1,7 +1,4 @@
 {
-  "Dive in": {
-    "message": "Duik er in"
-  },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
@@ -272,5 +269,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homePage.diveIn": {
+    "message": "Duik er in"
   }
 }
