@@ -124,6 +124,13 @@ const config = {
             ],
           },
         ],
+        logo: {
+          alt: 'Bit Academy Logo',
+          src: 'img/logo.svg',
+          href: 'https://www.bit-academy.nl',
+          width: 160,
+          height: 51,
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Bit Academy B.V.`,
       },
       prism: {
