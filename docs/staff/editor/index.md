@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+description: What's a editor?
 ---
 
-# Editor intro
+# Intro
 
 The staff introduction and reference
