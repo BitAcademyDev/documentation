@@ -10,5 +10,9 @@
   "sidebar.staffSidebar.category.Editor": {
     "message": "Editor",
     "description": "The label for category Editor in sidebar staffSidebar"
+  },
+  "sidebar.staffSidebar.category.Location admin": {
+    "message": "Locatie administrator",
+    "description": "The label for category Location admin in sidebar staffSidebar"
   }
 }

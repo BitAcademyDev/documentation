@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+description: Wat is een coach?
 ---
 
-# Coach intro
+# Introductie
 
 De coach introductie

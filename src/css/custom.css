@@ -99,3 +99,11 @@ body {
 .footer__title, .footer__link-item {
     color: var(--bit-black);
 }
+
+.language-info {
+    background-color: #cce5ff;
+}
+
+.language-warn {
+    background-color: #ffa200;
+}

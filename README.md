@@ -32,3 +32,5 @@ After editing react components & sidebars run `npm run docusaurus write-translat
 files that can then be copied to different languages
 
 Testing with another locale `npm run start -- --locale nl`
+
+**Note** when testing, only one locale will be available at a given time.

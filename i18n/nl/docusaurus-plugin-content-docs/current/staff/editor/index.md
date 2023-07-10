@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
+description: Wat is een editor?
 ---
 
-# Editor introductie
+# Introductie
 
 De editor introductie
