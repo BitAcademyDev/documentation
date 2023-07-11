@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 description: Changing how the location works
 ---
 
@@ -10,7 +10,7 @@ de manier om deze ervaring in Jarvis te creëren, is door middel van feature tog
 
 Deze opties vind je onder `Locaties` in het hoofdmenu en dan het tabblad `Feature Toggles`
 
-![feature toggle example](/img/staff/location-admin/feature-toggles.png)
+![feature toggle voorbeeld](/img/staff/location-admin/feature-toggles.png)
 
 Verschillende functieschakelaars hebben verschillende opties. Sommige zijn alleen aan/uit,
 sommige hebben verschillende modi, 
