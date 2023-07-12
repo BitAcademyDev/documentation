@@ -107,3 +107,12 @@ body {
 .language-warn {
     background-color: #ffa200;
 }
+
+body {
+    counter-reset: h2counter;
+}
+
+h2:before {
+    counter-increment: h2counter;
+    content: counter(h2counter) ".\0000a0\0000a0";
+}
