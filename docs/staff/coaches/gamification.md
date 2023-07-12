@@ -61,3 +61,14 @@ For example, here the user will be able to enroll in the "Python" module when th
 ![Level gate](/img/staff/coaches/gamification/level-gate.png)
 
 ## Badges
+
+Badges are another gamification feature. This enabled students to acquire a badge.
+All badges are different, and have different requirements to acquire them.
+
+![Badge](/img/staff/coaches/gamification/badge.png)
+
+**Good to know:**
+- If a student has acquired a badge it will show it in a notification
+- The badges of a student can be found by going to a student, and selecting the *'Badges'* tab.
+- You can also forcefully grant a badge to a student, by going to the *'Badges'* tab, opening the bottom right menu, and selecting *'Issue badge'*.
+- Some badges are not given automatically, but have to be given manually.
