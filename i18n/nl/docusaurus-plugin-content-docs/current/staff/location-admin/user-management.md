@@ -1,69 +1,82 @@
 ---
 sidebar_position: 2
-description: Studenten en medewekers opzetten
+description: Het instellen van studenten en personeelsleden
 ---
 
 # Gebruikersadministratie
 
 ## Studenten
+In Jarvis worden studenten georganiseerd in groepen. Een student maakt altijd deel uit van één enkele groep.
 
-In Jarvis zitten studenten in groepen, wat een manier is om studenten te organiseren.
-[En de toegang van personeelsleden tot studenten op schaal te beheren](#coach).
+Bij het aanmaken van een student wordt er een e-mail naar hen verzonden met een link om hun wachtwoord opnieuw in te stellen. Ze kunnen deze link gebruiken om hun wachtwoord te resetten.
+Let op: deze link is slechts 2 dagen geldig. Als een gebruiker (student of medewerker) er niet in slaagt om hun account op tijd te activeren,
+kunnen ze een nieuwe link aanvragen via de 'wachtwoord vergeten'-functie op het inlogscherm.
 
-[Hoe Jarvis voor studenten werkt, wordt in detail beschreven in de eigen hoofdstuk.](../../students)
+### Na het aanmaken
+Niet alle eigenschappen van een student kunnen worden ingesteld bij het aanmaken. De volgende eigenschappen zijn alleen beschikbaar nadat een student is aangemaakt:
+
+- Mentor
+- Status
+
+Hoe Jarvis werkt voor studenten wordt in detail beschreven in [het eigen gedeelte](../../students).
+
+## Het gelijktijdig aanmaken van meerdere studenten
+Studenten kunnen worden geïmporteerd via een CSV-bestand.
+
+Om studenten te importeren via CSV, ga naar het dialoogvenster voor het aanmaken van studenten en klik op de knop 'studenten importeren' rechtsboven.
+
+Het CSV-bestand moet de volgende velden bevatten: *email*, *voornaam*, *tussenvoegsel\**, *achternaam*.
+
+\** = tussenvoegsel kan leeg worden gelaten.*
+
+Meerdere locaties
+In tegenstelling tot medewerkers kunnen studenten niet tegelijkertijd op meerdere locaties bestaan. Als een student de locatie verlaat
+en naar een andere Jarvis-locatie moet worden verplaatst, moet je contact opnemen met de Bit Academy om dit op te lossen.
 
 ## Medewerkers
-
-Medewerkersaccounts kunnen verschillende rollen hebben binnen Jarvis, u kunt elk medewerker elke combinatie van rollen toekennen.
-Over het algemeen wordt het als een goed idee gezien om medewerkers 
-alleen toegang te geven tot wat ze werkelijk nodig hebben.
-We zullen de rollen hier afzonderlijk bespreken,
-houd er rekening mee dat u ook andere medewerkers locatiebeheerdersrechten kunt verlenen.
-Wat handig kan zijn om de verantwoordelijkheid voor het managen van anderen te delen.
-
-### Coach
-
-Een coach (sommige instellingen noemen dit misschien leraar) is de meest voorkomende rol om uit te delen.
-Coaches geven lessen en/of begeleiden studenten bij hun voortgang.
-Hierdoor hebben ze toegang tot informatie van studenten, zoals de voortgang en notities.
-Ze kunnen acties ondernemen zoals Jarvis negeren bij het ontgrendelen van modules of oefeningen voor een student.
-
-Standaard kan een coach geen studenten zien, jij als locatiebeheerder moet coaches koppelen aan een groep studenten.
-Waarna de coach de studenten in die groep kan zien en met hen kan werken.
-
-Vergeleken met locatiebeheerder is een coach iets beperkter in de acties die hij kan doen, hij kan een student niet blokkeren
-Jarvis. Evenmin kunnen ze studenten tussen groepen verplaatsen of nieuwe studenten maken, dat blijft de locatiebeheerders
-verantwoordelijkheid.
-
-[Deze rol wordt in detail beschreven in zijn eigen hoofdstuk.](../coaches/)
-
-### Locatie-editor
-
-Met de rol Editor kan een medewerker uw locatie-universum en de inhoud waarvan u de eigenaar bent (of waartoe u bewerkingstoegang hebt) bewerken.
-
-[Deze rol wordt in detail beschreven in zijn eigen hoofdstuk.](../editor)
-
-### Intaker
-
-Jarvis heeft een functie genaamd de benchmark, die wordt gebruikt voor intakes met studenten voordat ze aan hun studie beginnen.
-Door de rol van intaker kan een medewerker hier gebruik van maken.
 
 ```info
 Mis je een van deze mogelijkheden voor jezelf?
 
-U kunt uw eigen rollen bewerken als locatiebeheerder,
-waarmee u mogelijkheden voor uw eigen account kunt toevoegen en verwijderen.
+Je kunt je eigen rollen bewerken als locatiebeheerder, waardoor je
+mogelijkheden kunt toevoegen en verwijderen voor je eigen account.
 
-Ziet u de wijzigingen niet nadat u uw eigen rollen hebt gewijzigd? 
-Log uit en weer opnieuw in bij Jarvis.
+Zie je de wijzigingen niet nadat je je eigen rollen hebt gewijzigd? Log dan uit en weer in bij Jarvis.
 ```
 
-### Twee factoren
+Medewerkersaccounts kunnen verschillende rollen hebben binnen Jarvis en elke combinatie van rollen bezitten.
+Het wordt aangeraden om het principe van het minste privilege te volgen: geef medewerkers alleen toegang tot wat ze echt nodig hebben.
 
-Jarvis vereist standaard dat alle medewerkers 2-factor-authenticatie hebben ingeschakeld op hun account.
+Hieronder zullen we de rollen individueel bespreken.
+Houd er rekening mee dat u ook andere medewerkers beheerdersrechten voor de locatie kunt geven, wat handig kan zijn om de verantwoordelijkheid voor het beheer van de locatie te delen.
 
-Dit wordt gedaan om extra bescherming toe te voegen aan de accounts van de medewerkers,
-omdat ze vaak toegang hebben tot gevoelige informatie over studenten.
+### Coach
+Een coach (sommige instellingen noemen deze rol docent) is de meest voorkomende rol om toe te wijzen.
+Coaches geven les en/of begeleiden de voortgang van studenten.
+Coaches hebben toegang tot informatie van studenten, zoals de voortgang, notities, doelen en individuele gesprekken.
+Ze kunnen ook acties ondernemen met betrekking tot de student. Bijvoorbeeld: modules of exercises ontgrendelen voor een student of een student dwingen bepaalde exercises opnieuw te doen.
 
-Als uw organisatie echt niet met 2-factor-authenticatie wil werken, is dit uw risico om te nemen.
-Het kan voor alle medewerkers worden uitgeschakeld via de [feature toggles](feature-toggles).
+Standaard kan een coach geen studenten zien. Hij/zij kan alleen de studenten zien die zich in de groepen bevinden waaraan de coach is gekoppeld. Dus u als locatiebeheerder moet coaches eerst koppelen aan een groep studenten.
+
+De rol van coach wordt in detail beschreven in [het eigen gedeelte](../coaches/).
+
+### Locatiebewerker
+De rol van locatiebewerker stelt een medewerker in staat om het universum en de modules binnenin te bewerken.
+
+Deze rol wordt in detail beschreven in [het eigen gedeelte](../editor).
+
+### Intaker
+Jarvis heeft een functie genaamd de benchmark, die wordt gebruikt voor intakegesprekken met studenten voordat ze aan hun studie beginnen.
+De rol van intaker stelt een medewerker in staat om deze functie te gebruiken.
+
+## Twee-factor authenticatie
+Standaard vereist Jarvis dat alle medewerkers tweefactorauthenticatie hebben ingeschakeld voor hun accounts.
+
+Dit is bedoeld om extra bescherming toe te voegen aan de accounts van medewerkers,
+omdat ze toegang hebben tot gevoelige informatie over studenten.
+
+Als uw organisatie echt niet wilt werken met tweefactorauthenticatie, is dit uw eigen risico.
+Het kan worden uitgeschakeld voor alle medewerkers via de feature toggles.
+
+Opmerking: als een medewerker deel uitmaakt van meerdere locaties en een van die locaties tweefactorauthenticatie vereist, dan moet de medewerker
+tweefactorauthenticatie gebruiken. Ongeacht de instelling van uw locatie.

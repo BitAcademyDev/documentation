@@ -5,6 +5,14 @@ description: Wat is een locatie administrator?
 
 # Introductie
 
-Als locatiebeheerder is het uw rol om [de accounts van andere medewerkers en studenten te beheren.](locatiebeheerder/gebruikersbeheer)
+Als locatiebeheerder bent u verantwoordelijk voor het beheren van een locatie. Hieronder wordt verstaan:
+- Groepen aanmaken
+- [Studenten aanmaken](location-admin/user-management)
+- [Medewerkers aanmaken (en hun rechten toekennen)](location-admin/user-management)
+- Medewerkers aan groepen koppelen
+- [Gebruikerservaring personaliseren](location-admin/feature-toggles)
 
-[Evenals het aanpassen van de ervaring van andere gebruikers binnen uw locatie.](location-admin/feature-toggles)
+Een locatie moet tenminste 1 locatie administrator hebben maar mag er meerdere hebben. Locatie administrator zijn
+het eerste punt van contact als een gebruiker vastloopt in Jarvis. 
+
+
