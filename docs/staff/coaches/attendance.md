@@ -13,7 +13,7 @@ sidebar_position: 3
 | **Settings**          | Off, Group, Schedule   |
 |                       |                        |
 
-### Description
+## Description
 Attendance tracking allows coaches to track the attendance of students. Attendance can be recorded for a full day, not for parts of the day.
 Attendance is registered in a screen like the one below. Per student you can fill in: 
 - the presence
@@ -36,7 +36,7 @@ After filling in the attendance, it will show up on the student's dashboard. The
 - Attendance is saved (and visible for student) immediately after altering the value of a field. No separate save action is required
 - You can only fill in attendance per day. Per hour is not supported
 
-### Relation to other features
+## Relation to other features
 **Sick transfer mode**
 
 If you want the 'sick' state to be automatically transferred to the next day, you can enable the 'sick transfer mode' feature for this. 
@@ -50,14 +50,14 @@ For a lot of its alerts, the coach pilot depends on the attendance being enabled
 If the Chat feature is enabled, the student will receive an automated chat message everytime
 they get registered as sick, late or unlawfully absent.
 
-# Settings
-## Group
+## Settings
+### Group
 
 In group mode you'll be able to select a group and fill in their attendance for a specific day. 
 
 This mode works well if you'll only be coaching 1 group of students at a time, and the students get the classes schedule elsewhere.
 
-## Schedule
+### Schedule
 
 The schedule mode builds on top of the group mode, by adding a schedule for students within Jarvis.
 
