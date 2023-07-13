@@ -4,6 +4,11 @@ sidebar_position: 2
 description: What you NEED to know about exercises
 ---
 
+|              |    |
+|--------------|----|
+| **Optional** | No |
+|              |    |
+
 ## Exercise view 🪟
 
 [For a basic introduction to the structure of an exercise, have a look here in the student guide](../../students/exercises)
@@ -20,7 +25,7 @@ Examples listed with the following icon the student will also be able to see upo
 visibility
 </span>
 
-The *BLAST-Tests* tab allows you to see the exact code BLAST will run for it's testing scenario's. 
+The *BLAST-Tests* tab allows you to see the exact code BLAST will run for it's testing scenario's.
 [For more info on that have a look here](../editor/blast)
 
 ## Handling students progress 📈
@@ -79,3 +84,18 @@ You'll be able to see the correct answer's (and hide them when going through the
 After going through the quiz with the student you can reopen the self diagnostic from the module overview.
 After which the student can retake the quiz.
 (please note the student can get different questions on the same subjects)
+
+## Settings
+
+Most of the settings of an exercise/module are part of that content. 
+The module contains things like:
+* Can a student download a certificate?
+* How many open reviews can a student have? (default is 7)
+
+The exercise settings contain things like:
+* What files should a student hand in?
+* How should a student hand in those files? (Git or file upload)
+* Does [BLAST](../editor/blast) validate the student's work?
+* How should do the review? (No one, other students or coaches)
+
+For more possible settings have a look at the [editor documentation](../editor).

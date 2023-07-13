@@ -4,6 +4,11 @@ sidebar_position: 2
 description: Wat u MOET weten over exercises
 ---
 
+|                       |     |
+|-----------------------|-----|
+| **Optioneel**         | Nee |
+|                       |     |
+
 ## Exercise weergave 🪟
 
 [Kijk voor een introductie van een exercises hier in de studentengids](../../students/exercises)
@@ -79,3 +84,19 @@ U kunt de juiste antwoorden zien (en verbergen wanneer u de quiz met de leerling
 Na het doorlopen van de quiz met de student kunt u vanuit het moduleoverzicht de zelfdiagnose weer openen.
 Waarna de student de self diagnostic opnieuw kan maken.
 (let op: de student kan verschillende vragen krijgen over dezelfde onderwerpen)
+
+
+## Instellingen
+
+De meeste instellingen zijn onderdeel van de exercise/module zelf.
+De module bevat instellingen zoals:
+* Kan de student een certificaat downloaden?
+* Hoeveel openstaande reviews mag een student hebben? (standaard is 7)
+
+De exercise bevat instellingen zoals:
+* Welke bestanden moet een student inleveren?
+* Hoe moet de student die bestanden inleveren? (Git of bestands upload)
+* Gaat [BLAST](../editor/blast) de student's werks valideren?
+* Wie gaat deze exercise reviewen? (Niemand, andere studenten of coaches)
+
+Voor meer mogelijke instellingen neem een kijkje in de [editor documentatie](../editor).
