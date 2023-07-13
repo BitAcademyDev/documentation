@@ -5,13 +5,14 @@ description: Wat is een locatie administrator?
 
 # Introductie
 
-Als locatiebeheerder kunt u medewerkers en studenten aanmaken voor uw locatie.
+Als locatiebeheerder bent u verantwoordelijk voor het beheren van een locatie. Hieronder wordt verstaan:
+- Groepen aanmaken
+- [Studenten aanmaken](location-admin/user-management)
+- [Medewerkers aanmaken (en hun rechten toekennen)](location-admin/user-management)
+- Medewerkers aan groepen koppelen
+- [Gebruikerservaring personaliseren](location-admin/feature-toggles)
 
-## Two-factor
-Standaard vereist Jarvis dat alle medewerkers 2-factor-authenticatie hebben ingeschakeld op hun account.
+Een locatie moet tenminste 1 locatie administrator hebben maar mag er meerdere hebben. Locatie administrator zijn
+het eerste punt van contact als een gebruiker vastloopt in Jarvis. 
 
-Dit wordt gedaan om extra bescherming toe te voegen aan de accounts van de medewerkers,
-omdat ze vaak toegang hebben tot veel van verschillende studenten.
 
-Als jouw organisatie echt niet met 2-factor-authenticatie wil werken, dan kun je dit risico nemen.
-Het kan worden uitgeschakeld via de [feature toggles](location-admin/feature-toggles).
