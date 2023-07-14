@@ -35,14 +35,13 @@ en naar een andere Jarvis-locatie moet worden verplaatst, moet je contact opneme
 
 ## Medewerkers
 
-```info
-Mis je een van deze mogelijkheden voor jezelf?
+:::info Mis je een van deze mogelijkheden voor jezelf?
 
 Je kunt je eigen rollen bewerken als locatiebeheerder, waardoor je
 mogelijkheden kunt toevoegen en verwijderen voor je eigen account.
 
 Zie je de wijzigingen niet nadat je je eigen rollen hebt gewijzigd? Log dan uit en weer in bij Jarvis.
-```
+:::
 
 Medewerkersaccounts kunnen verschillende rollen hebben binnen Jarvis en elke combinatie van rollen bezitten.
 Het wordt aangeraden om het principe van het minste privilege te volgen: geef medewerkers alleen toegang tot wat ze echt nodig hebben.

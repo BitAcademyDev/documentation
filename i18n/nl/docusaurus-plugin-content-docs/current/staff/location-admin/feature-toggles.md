@@ -16,14 +16,14 @@ Verschillende functieschakelaars hebben verschillende opties. Sommige zijn allee
 sommige hebben verschillende modi, 
 maar ze gaan allemaal vergezeld van een beschrijving van wat die schakelaar doet.
 
-```info
+:::info
 Kijk eens rond, mocht er iets onduidelijk zijn, neem dan gerust contact op met dev@bit-academy.nl
-```
+:::
 
 Zoals te zien is in de bovenstaande schermafbeelding, 
 kunnen sommige schakelaars worden overschreven voor specifieke groepen of studenten.
 Een handige manier om dit te gebruiken, is door specifieke functies uit te testen met een beperkt aantal studenten.
 
-```warn
+:::caution
 Wijzigingen in een functieschakelaar worden binnen enkele seconden zichtbaar voor gerichte gebruikers
-```
+:::

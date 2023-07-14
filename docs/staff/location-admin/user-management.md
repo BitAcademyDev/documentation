@@ -42,14 +42,13 @@ location and should be moved to another jarvis location, you have to contact sup
 
 ## Staff members
 
-```info
-Missing any of these capabilities for yourself? 
+:::info Missing any of these capabilities for yourself? 
 
 You can edit your own roles as location admin, which allows you to add and 
 remove capabilities for your own account.
 
 Not seeing the changes after changing your own roles? Please log out and then back into Jarvis.
-```
+:::
 
 Staff member accounts can have different roles within Jarvis and can possess any combination of roles.
 It's considered a good practice to follow the principle of least privilege: only give staff members access to what they
