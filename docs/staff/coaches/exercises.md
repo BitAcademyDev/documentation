@@ -90,7 +90,7 @@ After which the student can retake the quiz.
 Most of the settings of an exercise/module are part of that content. 
 The module contains things like:
 * Can a student download a certificate?
-* How many open reviews can a student have? (default is 7)
+* How many open reviews can a student have within this module? (default is 7)
 
 The exercise settings contain things like:
 * What files should a student hand in?
