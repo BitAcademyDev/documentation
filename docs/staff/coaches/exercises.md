@@ -35,7 +35,6 @@ When looking at a single student in Jarvis, you can go to the progress tab to se
 ![student progress example](/img/staff/coaches/exercises/student-progress.png)
 
 From here you can override the default flow of Jarvis for a student by, for example, enrolling them into a module they shouldn't have access to yet. 
-Using the menu in the right bottom hand corner you can enroll a student in any module you'd like.
 
 Clicking on a module the student's already enrolled in you can view that students progress within that module.
 
