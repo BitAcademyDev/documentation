@@ -13,90 +13,89 @@ description: Wat u MOET weten over exercises
 
 [Kijk voor een introductie van een exercises hier in de studentengids](../../students/exercises)
 
-In Jarvis zal jouw weergave van een exercise er iets anders uitzien dan die van de student.
+In Jarvis zal je weergave van een exercise er iets anders uitzien dan die van de student. Op de afbeelding hieronder
+zie je links hoe jarvis er voor jou uitziet en rechts hoe het er voor de student uitziet. Het belangrijkste verschil is de extra informatie waartoe u toegang heeft via de tabbladen bovenaan het scherm.
 
-Het belangrijkste verschil is de extra informatie waartoe u toegang heeft via de tabbladen bovenaan het scherm.
+![voorbeeld van studentenvoortgang](/img/staff/coaches/exercises/coach-exercise-view-details.png)
 
-Op het tabblad *Voorbeelduitwerkingen* kunt u een voorbeeld zien van hoe de exercise moet worden uitgevoerd.
-Dit kan een geweldige manier zijn om snel het antwoord te vinden om je student naar toe te leiden wanneer ze je een vraag stellen.
-Voorbeelden vermeld met het volgende pictogram zullen de student ook kunnen zien na het voltooien van de oefeningexercise
+
+Het tabblad *voorbeelden* stelt je in staat om een voorbeeld te bekijken van hoe de exercise moet worden uitgevoerd.
+Dit kan een goede manier zijn om snel te begrijpen welke richting je de student op moet sturen wanneer ze een vraag stellen.
+Wanneer een voorbeeld wordt vermeld met het volgende pictogram en de relevante featuretoggle is ingeschakeld, kan de student de uitwerking zien nadat hij de exercise heeft voltooid.
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 <span class="material-symbols-outlined">
 visibility
 </span>
 
-Op het tabblad *BLAST-Tests* kunt u de exacte code zien die BLAST zal uitvoeren voor zijn testscenario's.
-[Kijk hier voor meer informatie hierover](../editor/blast)
+Het tabblad *BLAST-tests* stelt je in staat om de exacte code te bekijken die BLAST zal uitvoeren voor de testscenario's.
+[Voor meer informatie daarover kun je hier kijken](../editor/blast)
 
 ## Omgaan met de voortgang van studenten 📈
 
-Als je naar 1 student in Jarvis kijkt, kun je naar het voortgangstabblad gaan om het universum te zien zoals de studenten het zien.
+Bij het bekijken van een enkele student in Jarvis, kun je naar het tabblad "voortgang" gaan om het universum te zien dat de voortgang van de student weerspiegelt. Dit is ook hoe de student het ziet wanneer ze Jarvis openen.
 
-![Voorbeeld van studentvoortgang](/img/staff/coaches/exercises/student-progress.png)
+![voorbeeld van studentenvoortgang](/img/staff/coaches/exercises/student-progress.png)
 
-Vanaf hier kun je de normale stroom van Jarvis voor een student overschrijven.
-Via het menu rechtsonder kunt u een student inschrijven voor elke gewenste module.
+Vanaf hier kun je de volgorde van modules voor een student overschrijven door hen bijvoorbeeld in te schrijven voor een module waar ze nog geen toegang toe zouden moeten hebben.
 
-Door op een module te klikken waarvoor de student al is ingeschreven, kunt u de module voortgang van de student zien.
+Door op een module te klikken waar een student al voor is ingeschreven, kun je de voortgang van die student binnen die module bekijken.
 
-![Voorbeeld van studentvoortgangsmodule](/img/staff/coaches/exercises/student-progress-module.png)
+![voorbeeld van voortgang module van student](/img/staff/coaches/exercises/student-progress-module.png)
 
-Afhankelijk van de status van een exercise is er een menu aan de rechterkant van de exercise waarmee u:
+Afhankelijk van de status van een exercise is er een menu aan de rechterkant van de exercise waarmee je het volgende kunt doen:
 
-* Bekijk de exercise zoals die student (om bijvoorbeeld hun BLAST-resultaten te zien)
+* Bekijk de exercise zoals de student (om bijvoorbeeld hun BLAST-resultaten te zien)
 * Ontgrendel een vergrendelde exercise
-* [Bekijk een self diagnostic met een leerling](#self-diagnostic)
-* Student een exercise opnieuw laten doen
+* [Bekijk een selfdiagnostic met een student](#selfdiagnostic)
+* Laat een student een exercise opnieuw doen
 
-### Team exercises 👥
+### Teamexercises 👥
 
-Als de exercise toevallig een exercise is waarbij studenten samenwerken.
-U ziet ook de bedieningselementen om teams handmatig te besturen.
+Als de exercise een team vereist, zie je extra opties om deze teams handmatig te beheren.
 
-In het scenario van een team exercise waarvoor 4 studenten nodig zijn,
-Jarvis zal standaard een team starten met de eerste student die binnenkomt.
-De tweede student die binnenkomt, wordt aan dit team toegevoegd,
+In het geval van een teamexercise die 4 studenten vereist,
+zal Jarvis standaard een team starten met de eerste student die arriveert.
+De tweede student die arriveert, wordt aan dit team toegevoegd,
 en de exercise begint zodra het vereiste aantal is bereikt.
 
-U kunt dit handmatig overschrijven door een team op te heffen en vervolgens elk gewenst team handmatig in te schrijven.
-Dit kan ook worden gebruikt om ongelijke groepsgroottes aan te pakken,
-stel dat je 21 studenten in een groep hebt waarvan je niet wilt dat de laatste 3 vast komen te zitten,
-dan kunt u ze handmatig kunt starten als een groep van 3.
-Dit wordt gedaan door het team op te heffen en ze handmatig in te schrijven.
+Je kunt handmatig de vereisten voor teamleden overschrijven door een team te ontbinden en vervolgens handmatig elk gewenst team in te schrijven. Dit team hoeft niet te voldoen aan het vereiste aantal teamleden.
+Dit kan ook worden gebruikt om met oneven groepsgroottes om te gaan.
+Stel dat je 21 studenten in een groep hebt en de exercise teams van 4 vereist, dan wil je niet dat de laatste 3 vastlopen,
+dus je kunt ze handmatig starten als een groep van 3.
 
-## Self diagnostic
+Let op dat bij het ontbinden van een team, ook de repository wordt verwijderd waarin dat team werkte. 
 
-Self diagnostic is een speciaal soort exercise,
-waarin studenten individueel een kleine quiz maken om hun begrip van een specifiek onderwerp te verifiëren.
+## selfdiagnostic
 
-Dit wordt vaak gebruikt voor meer theoretische vakken en/of vakken die niet goed worden geverifieerd door praktische exercises.
+Selfdiagnostics zijn een speciaal soort exercise waarbij studenten individueel een kleine quiz afleggen om hun begrip van een specifiek onderwerp te verifiëren.
 
-Als de student niet slaagt voor een self diagnostic, kunnen ze afhankelijk van de locatie-instellingen, 
-gedwongen worden om een coach te zoeken die de quiz met hun doorneemt.
+Dit wordt vaak gebruikt voor meer theoretische onderwerpen en/of onderwerpen die niet goed worden geverifieerd door praktische exercises.
 
-![voorbeeld van zelfdiagnose van studentvoortgang](/img/staff/coaches/exercises/student-progress-self-diagnostic.png)
+Als de student deze selfdiagnostic niet haalt, afhankelijk van de locatie-instellingen,
+zijn ze verplicht om een coach te raadplegen om hen te helpen begrijpen waar ze de mist in zijn gegaan.
 
-Vanuit het moduleoverzicht kun je een self diagnostic met een cursist bekijken.
-U kunt de juiste antwoorden zien (en verbergen wanneer u de quiz met de leerling doorloopt).
+![voorbeeld van selfdiagnostic van studentenvoortgang](/img/staff/coaches/exercises/student-progress-self-diagnostic.png)
 
-![voorbeeld zelfdiagnose](/img/staff/coaches/exercises/self-diagnostic.png)
+Er zijn twee manieren om een selfdiagnostic van een student te bekijken. De eerste is om naar de module te gaan via de voortgangspagina van de student. De tweede optie is om de dashboard-widget *"Mislukte selfdiagnostics"* te gebruiken.
+Je kunt de juiste antwoorden zien (en ze verbergen tijdens het doorlopen van de quiz met de student).
 
-Na het doorlopen van de quiz met de student kunt u vanuit het moduleoverzicht de zelfdiagnose weer openen.
-Waarna de student de self diagnostic opnieuw kan maken.
-(let op: de student kan verschillende vragen krijgen over dezelfde onderwerpen)
+![voorbeeld van selfdiagnosticbeoordeling](/img/staff/coaches/exercises/self-diagnostic.png)
 
+Na het doorlopen van de quiz met de student kun je de selfdiagnostic opnieuw openen vanuit het moduleoverzicht.
+Daarna kan de student de quiz opnieuw maken. De student kan verschillende vragen krijgen over dezelfde onderwerpen.
 
 ## Instellingen
 
-De meeste instellingen zijn onderdeel van de exercise/module zelf.
-De module bevat instellingen zoals:
-* Kan de student een certificaat downloaden?
-* Hoeveel openstaande reviews mag een student hebben? (standaard is 7)
+De meeste instellingen van een exercise/module maken deel uit van de exercise zelf.
 
-De exercise bevat instellingen zoals:
+De module bevat zaken zoals:
+* Kan een student een certificaat downloaden?
+* Hoeveel open reviews kan een student hebben binnen deze module? (standaard is 7)
+
+De instellingen van de exercise bevatten zaken zoals:
 * Welke bestanden moet een student inleveren?
-* Hoe moet de student die bestanden inleveren? (Git of bestands upload)
-* Gaat [BLAST](../editor/blast) de student's werks valideren?
-* Wie gaat deze exercise reviewen? (Niemand, andere studenten of coaches)
+* Hoe moet een student die bestanden inleveren? (Git of bestandsupload)
+* Controleert [BLAST](../editor/blast) het werk van de student?
+* Wie moet de beoordeling doen? (Niemand, andere studenten of coaches)
 
-Voor meer mogelijke instellingen neem een kijkje in de [editor documentatie](../editor).
+Voor meer mogelijke instellingen kun je kijken naar de [editor documentatie](../editor).

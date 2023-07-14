@@ -13,9 +13,11 @@ description: What you NEED to know about exercises
 
 [For a basic introduction to the structure of an exercise, have a look here in the student guide](../../students/exercises)
 
-In Jarvis your view of an exercise will look a bit different from the student's view.
+In Jarvis your view of an exercise will look a bit different from the student's view. In the image below, on the left side you can
+see your view and on the right how it looks for a student. Most importantly, as coach you have access to more information, via the tabs at the top of the screen.
 
-Most importantly being the extra information you have access to, via the tabs at the top of the screen.
+![student progress example](/img/staff/coaches/exercises/coach-exercise-view-details.png)
+
 
 The *examples* tab allows you to take check an example of how the exercise is supposed to be done.
 This can be a great way to quickly figure out the direction to guide your student towards when they ask you a question.
@@ -61,6 +63,8 @@ This can also be used to deal with uneven group sizes,
 say you have 21 students in a group, and the exercise requires teams of 4, you don't want the last 3 to get stuck,
 so you can manually start them as a group of 3.
 
+Note that disbanding a team also removed the repository they were working in. 
+
 ## Self diagnostic
 
 Self diagnostics are a special kind of exercise,
@@ -79,8 +83,7 @@ You'll be able to see the correct answer's (and hide them when going through the
 ![self diagnostic review example](/img/staff/coaches/exercises/self-diagnostic.png)
 
 After going through the quiz with the student you can reopen the self diagnostic from the module overview.
-After which the student can retake the quiz.
-(please note the student can get different questions on the same subjects).
+After which the student can retake the quiz. Please note the student can get different questions on the same subjects.
 
 ## Settings
 
