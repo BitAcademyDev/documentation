@@ -56,7 +56,7 @@ Jarvis will by default start a team with the first student that arrives.
 The second student that arrives will be added to this team,
 and the exercise will start once the required number has been reached.
 
-You can manually override this by, disbanding a team and then manually enrolling any team you'd like.
+You can manually override the team member requirements by disbanding a team and then manually enrolling any team you'd like. This team doesn't need to adhere to the required team member count. 
 This can also be used to deal with uneven group sizes,
 say you have 21 students in a group you don't want the last 3 to get stuck,
 so you can manually start them as a group of 3.
