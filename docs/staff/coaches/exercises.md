@@ -83,7 +83,7 @@ You'll be able to see the correct answer's (and hide them when going through the
 
 After going through the quiz with the student you can reopen the self diagnostic from the module overview.
 After which the student can retake the quiz.
-(please note the student can get different questions on the same subjects)
+(please note the student can get different questions on the same subjects).
 
 ## Settings
 
