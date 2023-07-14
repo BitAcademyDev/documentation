@@ -6,7 +6,6 @@ sidebar_position: 2
 
 Het universum is waar modules worden weergegeven zodat leerlingen een bepaalde richting of een bepaald traject kunnen
 volgen.
-De rol van de editor is om deze universums te creëren.
 
 ## Het universum bekijken
 
