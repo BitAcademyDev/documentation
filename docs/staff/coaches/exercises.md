@@ -18,7 +18,7 @@ In Jarvis your view of an exercise will look a bit different from the student's 
 Most importantly being the extra information you have access to, via the tabs at the top of the screen.
 
 The *examples* tab allows you to take check an example of how the exercise is supposed to be done.
-This can be a great way to quickly figure out the answer to guide your student towards when they ask you a question.
+This can be a great way to quickly figure out the direction to guide your student towards when they ask you a question.
 Examples listed with the following icon the student will also be able to see upon completing the exercise
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 <span class="material-symbols-outlined">
