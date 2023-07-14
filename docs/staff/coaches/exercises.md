@@ -60,7 +60,6 @@ You can manually override the team member requirements by disbanding a team and 
 This can also be used to deal with uneven group sizes,
 say you have 21 students in a group, and the exercise requires teams of 4, you don't want the last 3 to get stuck,
 so you can manually start them as a group of 3.
-This is done by disbanding the team and them manually enrolling.
 
 ## Self diagnostic
 
