@@ -26,7 +26,7 @@ After this the amount of XP needed for a level up is increased.
 
 ![Level up screen](/img/staff/coaches/gamification/level-up.png)
 
-### Wich actions yield XP
+### Which actions yield XP
 
 We calculate the amount of XP internally, we do not specify the exact amount of XP here, only a representation.
 
