@@ -49,8 +49,7 @@ Depending on the state of an exercise, there will be a menu on the right hand si
 
 ### Team exercises 👥
 
-If the exercise happens to be a exercise where students work together.
-You will additionally see the controls to manually control teams.
+If the exercise requires a team, you will see extra controls to manually control these teams.
 
 In the case of a team exercise that requires 4 students,
 Jarvis will by default start a team with the first student that arrives.
