@@ -73,7 +73,7 @@ they might be forced so seek out a coach to help them understand where they went
 
 ![student progress self diagnostic example](/img/staff/coaches/exercises/student-progress-self-diagnostic.png)
 
-From the module overview you can review a self diagnostic with a student.
+There are two ways to view a students self diagnostic. The first one is to go in to the module via the student's progress page. The second option is to use the dashboard widget *"Failed self diagnostics"*.
 You'll be able to see the correct answer's (and hide them when going through the quiz with the student).
 
 ![self diagnostic review example](/img/staff/coaches/exercises/self-diagnostic.png)
