@@ -19,7 +19,7 @@ Most importantly being the extra information you have access to, via the tabs at
 
 The *examples* tab allows you to take check an example of how the exercise is supposed to be done.
 This can be a great way to quickly figure out the direction to guide your student towards when they ask you a question.
-Examples listed with the following icon the student will also be able to see upon completing the exercise
+When an example is listed with the following icon and the relevant feature toggle is enabled, the student will be able to see it upon completing the exercise.
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 <span class="material-symbols-outlined">
 visibility
