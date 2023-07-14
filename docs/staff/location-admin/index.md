@@ -5,13 +5,12 @@ description: What's a location admin?
 
 # Intro
 
-As location administrator you can add staff members and students to your location.
+As location administrator you are responsible for managing a location. This includes (but is not limited to):
+- Creating groups
+- [Creating students](location-admin/user-management)
+- [Creating staff members (and assigning their permissions)](location-admin/user-management)
+- Assigning staff members to groups
+- [Customize the user experience](location-admin/feature-toggles)
 
-## Two-factor
-By default, Jarvis requires all staff members to have 2-factor authentication enabled on their accounts.
-
-This is done to add extra protection to the staff members their accounts, 
-as they tend to have access to sensible information about students. 
-
-If your organisation really does not want to work with 2-factor authentication, this is your risk to take.
-It can be switched off via the [feature toggles](location-admin/feature-toggles).
+A location must have at least one location administrator but can have multiple. The location administrators
+are the first point of contact for questions related to Jarvis. 

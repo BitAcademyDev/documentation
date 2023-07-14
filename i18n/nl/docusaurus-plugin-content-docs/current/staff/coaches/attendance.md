@@ -9,7 +9,7 @@
 | **Instellingen**      | Uit, Groep, Rooster    |
 |                       |                        |
 
-### Beschrijving
+## Beschrijving
 De aanwezigheidsfeature stelt coaches in staat om de aanwezigheid van studenten bij te houden. Aanwezigheid kan worden geregistreerd voor een hele dag, niet voor delen van de dag.
 De aanwezigheid wordt geregistreerd in een scherm zoals hieronder weergegeven. Voor elke student kan je de volgende informatie invullen:
 - de aanwezigheid
@@ -32,7 +32,7 @@ Nadat de aanwezigheid is ingevuld, wordt dit weergegeven op het dashboard van de
 - Je kan alleen de aanwezigheid per dag invullen. Per uur wordt niet ondersteund.
 - Het invullen van de aanwezigheid met meerdere gebruikers tegelijk is niet ondersteund en kan resulteren in het overschrijven van waardes.
 
-### Verband met andere functies
+## Verband met andere functies
 **Ziekteoverdrachtsmodus**
 
 Als je wilt dat de status *'ziek'* automatisch wordt overgedragen naar de volgende dag, moet de functie 'ziekteoverdrachtsmodus' hiervoor ingeschakeld worden.
@@ -45,14 +45,14 @@ Voor veel van de meldingen van de coach-pilot is het inschakelen van de aanwezig
 
 Als de Chat-functie is ingeschakeld, ontvangt de student automatisch een chatbericht telkens wanneer ze als ziek, te laat of ongeoorloofd afwezig worden geregistreerd.
 
-# Instellingen
-## Groep
+## Instellingen
+### Groep
 
 In de groepmodus kan je een groep selecteren en hun aanwezigheid voor een specifieke dag invullen.
 
 Deze modus werkt goed als er slechts 1 groep studenten tegelijk gecoached wordt en de studenten ergens anders het lesrooster krijgen.
 
-## Rooster
+### Rooster
 
 De roostermodus bouwt voort op de groepmodus door een rooster toe te voegen voor studenten binnen Jarvis.
 
