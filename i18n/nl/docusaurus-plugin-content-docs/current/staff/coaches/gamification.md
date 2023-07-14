@@ -47,16 +47,16 @@ We berekenen de hoeveelheid XP intern, we specificeren hier niet de exacte hoeve
 - Als een oefening is heropend of herstart, wordt dezelfde hoeveelheid XP die de oefening opleverde, verwijderd uit het
   studentenprofiel.
 
-## Scorebord
+## Leaderboard
 
-Het scorebord toont de huidige studenten met het hoogste level en XP.
+Het leaderboard toont de huidige studenten met het hoogste level en XP.
 
-![Scorebord](/img/staff/coaches/gamification/leaderboard.png)
+![Leaderboard](/img/staff/coaches/gamification/leaderboard.png)
 
 **Goed om te weten:**
 
-- Als een student de status *'stage'*, *'afgestudeerd'* of *'geblokkeerd'* heeft, verschijnen ze niet op het scorebord.
-- Het scorebord kan worden gefilterd om alleen een bepaalde groep weer te geven.
+- Als een student de status *'stage'*, *'afgestudeerd'* of *'geblokkeerd'* heeft, verschijnen ze niet op het leaderboard.
+- Het leaderboard kan worden gefilterd om alleen een bepaalde groep weer te geven.
 
 ## Level gates
 
