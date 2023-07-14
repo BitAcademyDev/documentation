@@ -30,7 +30,7 @@ The *BLAST-Tests* tab allows you to see the exact code BLAST will run for it's t
 
 ## Handling students progress 📈
 
-When looking at 1 student in Jarvis you can go to the progress tab to see the universe like that students see it.
+When looking at a single student in Jarvis, you can go to the progress tab to see the universe reflecting the student's progress. This is also how the students sees it when they open Jarvis.
 
 ![student progress example](/img/staff/coaches/exercises/student-progress.png)
 
