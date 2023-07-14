@@ -119,7 +119,7 @@ Labels can be used to add text to the universe, these are often used together wi
 ### Lines and flow
 
 In order to create a flow inside your universe that the students will follow, you need to connect modules together using lines.
-This will make the selected module a prerequisite for the module it is connected to. This means that the current module has to be completed before the student can continue.
+This will make the selected module a prerequisite for the module it is connected to. This means that the selected module has to be completed before the student can continue with the module it's been connected to.
 
 For example, here the student first has to complete the module `HTML / CSS - Beginner` before the student can start on `HTML / CSS - Advanced`
 
