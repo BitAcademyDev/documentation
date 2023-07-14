@@ -40,7 +40,7 @@ By clicking on a module that a student is already enrolled in, you can view that
 
 ![student progress module example](/img/staff/coaches/exercises/student-progress-module.png)
 
-Depending on the state an exercise there will be a menu on the right hand side of the exercise to allow you to:
+Depending on the state of an exercise, there will be a menu on the right hand side of the exercise that allows you to:
 
 * View the exercise like that student (to see their BLAST results for example)
 * Unlock a locked exercise
