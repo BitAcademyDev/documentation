@@ -96,6 +96,6 @@ The exercise settings contain things like:
 * What files should a student hand in?
 * How should a student hand in those files? (Git or file upload)
 * Does [BLAST](../editor/blast) validate the student's work?
-* How should do the review? (No one, other students or coaches)
+* Who should do the review? (No one, other students or coaches)
 
 For more possible settings have a look at the [editor documentation](../editor).
