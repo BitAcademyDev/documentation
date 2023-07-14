@@ -17,11 +17,11 @@ De aanwezigheid wordt geregistreerd in een scherm zoals hieronder weergegeven. V
 
 Bovenaan de pagina kan je navigeren naar toekomstige datums en de aanwezigheid/opmerking van een student vooraf invullen. Bijvoorbeeld om op te merken dat ze op een bepaalde datum te laat zullen zijn.
 
-![dashboardwidget voor studentenaanwezigheid](/img/coaches/attendance/attendance-coach.png)
+![dashboardwidget voor studentenaanwezigheid](/img/staff/coaches/attendance/attendance-coach.png)
 
 Nadat de aanwezigheid is ingevuld, wordt dit weergegeven op het dashboard van de student. De aanwezigheid van de laatste 30 registraties wordt weergegeven in een grafiek op hun dashboard.
 
-![dashboardwidget voor studentenaanwezigheid](/img/coaches/attendance/student-dashboard.png)
+![dashboardwidget voor studentenaanwezigheid](/img/staff/coaches/attendance/student-dashboard.png)
 
 **Goed om te weten:**
 - Als een student de status *'stage'* heeft, wordt hun aanwezigheid vooraf ingevuld met deze informatie en de status *'geoorloofd afwezig'*.
@@ -58,7 +58,7 @@ De roostermodus bouwt voort op de groepmodus door een rooster toe te voegen voor
 
 De student ziet een widget zoals hieronder weergegeven waarin wordt aangegeven wanneer ze in de les worden verwacht.
 
-![dashboardwidget voor studentenrooster](/img/coaches/attendance/student-dashboard-schedule.png)
+![dashboardwidget voor studentenrooster](/img/staff/coaches/attendance/student-dashboard-schedule.png)
 
 Bij het registreren van aanwezigheid ga je niet langer groep per groep, maar kan je alle studenten van verschillende groepen registreren vanuit één overzicht. Dit werkt het beste als u meerdere groepen studenten tegelijk heeft.
 
