@@ -130,7 +130,7 @@ To remove a line between 2 modules, you need to hover over the line, and press t
 ### Start module
 
 The start module can be selected using the dropdown menu in the top right. This is only used for the student's tour. Not the start of the universe.
-The start of the universe is considered to be every module that does not have a [prerequisite line](#lines-and-flow).
+A possible start of the universe is considered to be every module that does not have a [prerequisite line](#lines-and-flow).
 
 ### Snapping
 
