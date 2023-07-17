@@ -2,11 +2,11 @@
 sidebar_position: <TODO>
 ---
 
-# Gamification
+# Feature name
 
 |                      |                                      |
 |----------------------|--------------------------------------|
-| **Optional**         | Yes / No                             |
+| **Optional**         | Yes                             |
 | **Default**          | \<DEFAULT VALUE>                     |
 | **Feature Toggle**   | \<NAME OF THE TOGGLE>                |
 | **Can be enabled by** | Location Administrator / Bit Academy |
