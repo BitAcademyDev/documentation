@@ -61,18 +61,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'studentSidebar',
-            position: 'left',
-            label: 'Students',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'staffSidebar',
-            position: 'left',
-            label: 'Staff',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },

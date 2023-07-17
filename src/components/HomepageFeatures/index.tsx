@@ -15,32 +15,32 @@ const FeatureList: FeatureItem[] = [
     {
         title: translate({message: 'homePage.features.exercises.title'}),
         Svg: require('@site/static/img/homepage/code.svg').default,
-        link: "/exercises"
+        link: "/docs/exercises"
     },
     {
         title: translate({message: 'homePage.features.gamification.title'}),
         Svg: require('@site/static/img/homepage/gamification.svg').default,
-        link: "/gamification"
+        link: "/docs/gamification"
     },
     {
         title: translate({message: 'homePage.features.reviews.title'}),
         Svg: require('@site/static/img/homepage/reviews.svg').default,
-        link: "/reviews"
+        link: "/docs/reviews"
     },
     {
         title: translate({message: 'homePage.features.attendance.title'}),
         Svg: require('@site/static/img/homepage/attendance.svg').default,
-        link: "/attendance"
+        link: "/docs/attendance"
     },
     {
         title: translate({message: 'homePage.features.surveys.title'}),
         Svg: require('@site/static/img/homepage/surveys.svg').default,
-        link: "/surveys"
+        link: "/docs/surveys"
     },
     {
         title: translate({message: 'homePage.features.1-on-1.title'}),
         Svg: require('@site/static/img/homepage/1-on-1.svg').default,
-        link: "/1-in-1"
+        link: "/docs/1-in-1"
     }
 ];
 
