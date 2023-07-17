@@ -1,6 +1,6 @@
 ---
-title: Administration
-sidebar_position: 7
+title: Introduction
+sidebar_position: 1
 ---
 
 # Location Administration

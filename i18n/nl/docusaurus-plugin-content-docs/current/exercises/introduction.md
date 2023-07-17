@@ -1,7 +1,8 @@
 ---
-title: Exercises
-sidebar_position: 2
+title: Introductie
+sidebar_position: 1
 ---
+
 
 |                       |     |
 |-----------------------|-----|

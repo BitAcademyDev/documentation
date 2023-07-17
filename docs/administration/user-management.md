@@ -1,3 +1,8 @@
+---
+title: User administration
+sidebar_position: 2
+---
+
 # User administration
 
 ## Students

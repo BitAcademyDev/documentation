@@ -1,6 +1,6 @@
 ---
+title: User administratie
 sidebar_position: 2
-description: Het instellen van studenten en personeelsleden
 ---
 
 # Gebruikersadministratie

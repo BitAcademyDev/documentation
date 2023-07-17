@@ -1,3 +1,8 @@
+---
+title: Universe
+sidebar_position: 2
+---
+
 # Universe
 
 The universe is where modules are displayed in a way that students can follow a certain direction or track.

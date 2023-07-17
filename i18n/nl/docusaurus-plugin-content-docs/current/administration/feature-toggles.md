@@ -1,6 +1,6 @@
 ---
+title: Feature toggles
 sidebar_position: 3
-description: Verander hoe een locatie werkt
 ---
 
 # Feature toggles

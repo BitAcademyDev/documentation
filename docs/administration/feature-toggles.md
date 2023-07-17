@@ -1,3 +1,8 @@
+---
+title: Feature toggles
+sidebar_position: 3
+---
+
 # Feature toggles
 
 Different schools can want their students to have a different experience,

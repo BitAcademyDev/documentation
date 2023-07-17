@@ -1,6 +1,6 @@
 ---
-title: Locatiebeheer
-sidebar_position: 7
+title: Introductie
+sidebar_position: 1
 ---
 
 # Introductie

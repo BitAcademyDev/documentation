@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-description: Hoe blast werkt
+title: BLAST
+sidebar_position: 3
 ---
 
 # BLAST
