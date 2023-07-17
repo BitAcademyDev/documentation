@@ -15,7 +15,7 @@ exercises and attendance both have their own pages.
 Within a single page, there is a fixed template to follow. See the [gamification page](/gamification) for a great example.
 
 ### Metadata table
-Feature pages always start with a table explain the metadata. The table follows the following structure:
+Feature pages always start with a table to explain their metadata. The table follows the following structure:
 
 |                       |                                      |
 |-----------------------|--------------------------------------|
