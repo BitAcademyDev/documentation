@@ -270,31 +270,28 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "homePage.diveIn": {
-    "message": "Duik er in"
+  "homePage.features.exercises.title": {
+    "message": "Exercises"
   },
-  "homePage.features.learnByDoing.title": {
-    "message": "Leren door te doen"
+  "homePage.features.gamification.title": {
+    "message": "Gamification"
   },
-  "homePage.features.learnByDoing.content": {
-    "message": "Jarvis leren door te doen"
+  "homePage.features.reviews.title": {
+    "message": "Reviews"
   },
-  "homePage.features.autonomy.title": {
-    "message": "Autonomie"
+  "homePage.features.attendance.title": {
+    "message": "Aanwezigheid"
   },
-  "homePage.features.autonomy.content": {
-    "message": "Jarvis laat jouw keuzes maken, welke kant jij op wilt en wat jij vandaag wilt doen."
+  "homePage.features.surveys.title": {
+    "message": "Surveys"
   },
-  "homePage.features.community.title": {
-    "message": "Community"
-  },
-  "homePage.features.community.content": {
-    "message": "We leren het meest door samen te werken"
+  "homePage.features.1-on-1.title": {
+    "message": "1-on-1's"
   },
   "site.Title": {
-    "message": "Jarvis Docs"
+    "message": "Jarvis documentatie"
   },
   "site.TagLine": {
-    "message": "Eind gebruiker documentatie voor jarvis.bit-academy.nl"
+    "message": "Documentatie voor Jarvis"
   }
 }

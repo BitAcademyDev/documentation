@@ -24,6 +24,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  plugins: [require.resolve('docusaurus-lunr-search')],
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -92,38 +94,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Student',
-                to: '/docs/students',
-              },
-              {
-                label: 'Staff',
-                to: '/docs/staff',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Bit-Academy',
-                href: 'https://www.bit-academy.nl/'
-              },
-              {
-                label: 'Jarvis',
-                href: 'https://jarvis.bit-academy.nl',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/BitAcademyDev/documentation',
-              },
-            ],
-          },
-        ],
+        links: [],
         logo: {
           alt: 'Bit Academy Logo',
           src: 'img/logo.svg',

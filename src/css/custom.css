@@ -144,7 +144,21 @@ h2:before {
 
 .flex {
     display: flex;
+    justify-content: center;
+
 }
+
+.gap-lg {
+    gap: var(--padding);
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
 .space-between {
     justify-content: space-between;
 }
+
+
+

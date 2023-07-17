@@ -5,7 +5,29 @@
   width: 100%;
 }
 
-.featureSvg {
+.feature {
+  width: 28%;
+  box-sizing: border-box;
+  box-shadow: 0 1.5px 3px 0 rgb(0 0 0 / 15%);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: all var(--ifm-transition-fast) ease;
+  transition-property: border, box-shadow;
   height: 200px;
-  width: 200px;
+  padding: var(--padding);
+}
+
+.feature:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 20%);
+  color: var(--ifm-link-hover-color);
+  text-decoration: var(--ifm-link-hover-decoration);
+}
+
+.featureSvg {
+  width: 100px;
+  height: 100px;
+}
+
+.feature:hover svg {
+  fill: var(--ifm-link-hover-color);
 }
