@@ -25,7 +25,7 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
 
     plugins: [
-        [require.resolve('docusaurus-lunr-search'), {languages: ['en', 'nl'] }]
+        [require.resolve('docusaurus-lunr-search'), {languages: ['en', 'nl']}]
     ],
 
     // Even if you don't use internalization, you can use this field to set useful
@@ -53,51 +53,56 @@ const config = {
 
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      // image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        logo: {
-          alt: 'Bit Academy Logo',
-          src: 'img/logo.svg'
-        },
-        items: [
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/BitAcademyDev/documentation',
-            'aria-label': 'GitHub repository',
-            label: 'GitHub',
-            position: 'right',
-            className: 'navbar-github-link',
-          },
-        ],
-      },
-      themeConfig: {
-        colorMode: {
-          defaultMode: 'light',
-          disableSwitch: true, // Doesn't seem to work
-          respectPrefersColorScheme: false,
-        },
-      },
-      footer: {
-        style: 'dark',
-        links: [],
-        logo: {
-          alt: 'Bit Academy Logo',
-          src: 'img/logo.svg',
-          href: 'https://www.bit-academy.nl',
-          width: 160,
-          height: 51,
-        },
-        copyright: `Copyright © ${new Date().getFullYear()} Bit Academy B.V.`,
-      },
-      prism: {
-        theme: lightCodeTheme
-      },
-    }),
+        ({
+            // Replace with your project's social card
+            // image: 'img/docusaurus-social-card.jpg',
+            navbar: {
+                logo: {
+                    alt: 'Bit Academy Logo',
+                    src: 'img/logo.svg'
+                },
+                items: [
+                    {
+                        href: '/docs/exercises',
+                        position: 'left',
+                        label: 'Docs',
+                    },
+                    {
+                        type: 'localeDropdown',
+                        position: 'right',
+                    },
+                    {
+                        href: 'https://github.com/BitAcademyDev/documentation',
+                        'aria-label': 'GitHub repository',
+                        label: 'GitHub',
+                        position: 'right',
+                        className: 'navbar-github-link',
+                    },
+                ],
+            },
+            themeConfig: {
+                colorMode: {
+                    defaultMode: 'light',
+                    disableSwitch: true, // Doesn't seem to work
+                    respectPrefersColorScheme: false,
+                },
+            },
+            footer: {
+                style: 'dark',
+                links: [],
+                logo: {
+                    alt: 'Bit Academy Logo',
+                    src: 'img/logo.svg',
+                    href: 'https://www.bit-academy.nl',
+                    width: 160,
+                    height: 51,
+                },
+                copyright: `Copyright © ${new Date().getFullYear()} Bit Academy B.V.`,
+            },
+            prism: {
+                theme: lightCodeTheme
+            },
+        }),
 };
 
 module.exports = config;
