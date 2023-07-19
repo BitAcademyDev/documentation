@@ -18,8 +18,6 @@ Niet alle eigenschappen van een student kunnen worden ingesteld bij het aanmaken
 - Mentor
 - Status
 
-Hoe Jarvis werkt voor studenten wordt in detail beschreven in [het eigen gedeelte](../../students).
-
 ## Het gelijktijdig aanmaken van meerdere studenten
 Studenten kunnen worden geïmporteerd via een CSV-bestand.
 
@@ -57,12 +55,8 @@ Ze kunnen ook acties ondernemen met betrekking tot de student. Bijvoorbeeld: mod
 
 Standaard kan een coach geen studenten zien. Hij/zij kan alleen de studenten zien die zich in de groepen bevinden waaraan de coach is gekoppeld. Dus u als locatiebeheerder moet coaches eerst koppelen aan een groep studenten.
 
-De rol van coach wordt in detail beschreven in [het eigen gedeelte](../coaches/).
-
 ### Locatiebewerker
 De rol van locatiebewerker stelt een medewerker in staat om het universum en de modules binnenin te bewerken.
-
-Deze rol wordt in detail beschreven in [het eigen gedeelte](../staff/editor).
 
 ### Intaker
 Jarvis heeft een functie genaamd de benchmark, die wordt gebruikt voor intakegesprekken met studenten voordat ze aan hun studie beginnen.

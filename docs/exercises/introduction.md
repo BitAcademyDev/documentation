@@ -10,8 +10,6 @@ sidebar_position: 1
 
 ## Exercise view 🪟
 
-[For a basic introduction to the structure of an exercise, have a look here in the student guide](../../students/exercises)
-
 In Jarvis your view of an exercise will look a bit different from the student's view. In the image below, on the left side you can
 see your view and on the right how it looks for a student. Most importantly, as coach you have access to more information, via the tabs at the top of the screen.
 
@@ -96,5 +94,3 @@ The exercise settings contain things like:
 * How should a student hand in those files? (Git or file upload)
 * Does [BLAST](blast.md) validate the student's work?
 * Who should do the review? (No one, other students or coaches)
-
-For more possible settings have a look at the [editor documentation](../staff/editor).
