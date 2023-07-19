@@ -34,3 +34,6 @@ files that can then be copied to different languages
 Testing with another locale `npm run start -- --locale nl`
 
 **Note** when testing, only one locale will be available at a given time.
+
+### Good to know
+1. The search only works in prod builds, not on local dev. 
