@@ -25,7 +25,7 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
 
     plugins: [
-        [require.resolve('docusaurus-lunr-search'), {languages: ['en', 'nl'] }]
+        [require.resolve('docusaurus-lunr-search'), {languages: ['en', 'nl']}]
     ],
 
     // Even if you don't use internalization, you can use this field to set useful
@@ -63,16 +63,9 @@ const config = {
                 },
                 items: [
                     {
-                        type: 'docSidebar',
-                        sidebarId: 'studentSidebar',
+                        href: '/docs/exercises',
                         position: 'left',
-                        label: 'Students',
-                    },
-                    {
-                        type: 'docSidebar',
-                        sidebarId: 'staffSidebar',
-                        position: 'left',
-                        label: 'Staff',
+                        label: 'Docs',
                     },
                     {
                         type: 'localeDropdown',

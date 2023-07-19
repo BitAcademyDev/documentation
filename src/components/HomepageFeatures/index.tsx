@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
     {
         title: translate({message: 'homePage.features.1-on-1.title'}),
         Svg: require('@site/static/img/homepage/1-on-1.svg').default,
-        link: "docs/1-in-1"
+        link: "docs/on-1"
     }
 ];
 
