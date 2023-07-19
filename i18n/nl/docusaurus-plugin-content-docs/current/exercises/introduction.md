@@ -11,8 +11,6 @@ sidebar_position: 1
 
 ## Exercise weergave 🪟
 
-[Kijk voor een introductie van een exercises hier in de studentengids](../../students/exercises)
-
 In Jarvis zal je weergave van een exercise er iets anders uitzien dan die van de student. Op de afbeelding hieronder
 zie je links hoe jarvis er voor jou uitziet en rechts hoe het er voor de student uitziet. Het belangrijkste verschil is de extra informatie waartoe u toegang heeft via de tabbladen bovenaan het scherm.
 
@@ -28,7 +26,7 @@ visibility
 </span>
 
 Het tabblad *BLAST-tests* stelt je in staat om de exacte code te bekijken die BLAST zal uitvoeren voor de testscenario's.
-[Voor meer informatie daarover kun je hier kijken](../editor/blast)
+[Voor meer informatie daarover kun je hier kijken](blast)
 
 ## Omgaan met de voortgang van studenten 📈
 
@@ -95,7 +93,5 @@ De module bevat zaken zoals:
 De instellingen van de exercise bevatten zaken zoals:
 * Welke bestanden moet een student inleveren?
 * Hoe moet een student die bestanden inleveren? (Git of bestandsupload)
-* Controleert [BLAST](../editor/blast) het werk van de student?
+* Controleert [BLAST](blast) het werk van de student?
 * Wie moet de beoordeling doen? (Niemand, andere studenten of coaches)
-
-Voor meer mogelijke instellingen kun je kijken naar de [editor documentatie](../staff/editor).

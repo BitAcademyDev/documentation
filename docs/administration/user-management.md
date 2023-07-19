@@ -23,7 +23,6 @@ a student:
 - Mentor
 - State
 
-How Jarvis works for students is described in detail in [its own section](../students).
 
 ### Creating multiple students at once
 
@@ -67,13 +66,9 @@ They can also take actions related to the student. For example: unlocking module
 By default, a coach cannot see any students. He/she can see only the students that are in the groups that coach is attached to. So you as a location admin have to attach coaches to a group of students
 first.
 
-The coach role is described in detail in [its own section](../coaches/).
-
 ### Location editor
 
 The location editor role allows a staff member to edit the universe and the modules within it.
-
-This role is described in detail in [its own section](../staff/editor).
 
 ### Intaker
 
