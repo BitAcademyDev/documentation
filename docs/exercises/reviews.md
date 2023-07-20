@@ -49,7 +49,7 @@ Not seeing a review?
 
 To prevent 'cheating' and to promote good behavior, there are a number of restrictions on conducting reviews.
 
-It is not possible to perform a review if you already have 5 credits
+If you do a review whilst you already have 5 credits you won't earn any credits.
 If you check the same person over and over,
 you often become a bit lax and less sharp after a number of reviews.
 As a reviewer, you cannot check a certain reviewee too often in a row!

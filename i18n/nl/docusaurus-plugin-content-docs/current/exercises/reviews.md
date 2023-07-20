@@ -49,7 +49,7 @@ Zie je geen review?
 
 Om 'valsspelen' te voorkomen en goed gedrag te promoten zit er een aantal restricties op het uitvoeren van reviews.
 
-Het is niet mogelijk om een review uit te voeren als je al 5 credits hebt
+Als je een review doet wanneer je 5 credits hebt dan ontvang je geen credit.
 Als je telkens dezelfde persoon nakijkt, word je vaak een beetje laks en minder scherp na een aantal reviews. 
 Om deze reden krijg jij via Jarvis continu afwisselende reviews. 
 Als reviewer kan je dus een bepaalde reviewee niet te vaak achter elkaar nakijken!
