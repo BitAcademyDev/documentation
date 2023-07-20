@@ -64,7 +64,7 @@ So Claire does not appear more than 2 times in the last 6 reviews!
 ![credits](/img/docs/reviews/credit.png)
 
 The credit system in Jarvis creates a balance between making exercises and doing reviews.
-**When you hand in an exercise that costs a credit. When you do a review you gain a credit.**
+**Handing in an exercise costs a credit. When you do a review you gain a credit.**
 
 The maximum amount of credits is capped at 5.
 To limit the amount of time spent doing reviews, instead of doing exercises yourself.
