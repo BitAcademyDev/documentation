@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Feature toggles
 
-Different schools can want their students to have a different experience,
+Different institutes can want their students to have a different experience,
 the way to craft this experience in Jarvis is through feature toggles.
 
 These options can be found under `Locations` in the main menu and then the tab `Feature Toggles`

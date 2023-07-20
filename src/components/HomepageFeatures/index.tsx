@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     {
         title: translate({message: 'homePage.features.reviews.title'}),
         Svg: require('@site/static/img/homepage/reviews.svg').default,
-        link: "docs/reviews"
+        link: "docs/exercises/reviews"
     },
     {
         title: translate({message: 'homePage.features.attendance.title'}),
