@@ -13,7 +13,7 @@ This is where reviewing comes in
 Via the menu item **Reviews** you'll get to the overview of reviews that are available to pick up.
 Depending on your institute settings you can either pick your own or tackle one randomly.
 
-As a student you'll be able to review exercises that, you've completed in the past or that you've at least handed in.
+As a student you'll be able to review exercises that you've handed in. You can review an exercise already before your exercise has been reviewed, this allows you to immediately learn from how others have completed the exercise.
 
 ### Doing reviews
 
