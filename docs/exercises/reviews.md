@@ -42,7 +42,7 @@ After that hit the needs improvement button, this will reopen the exercise for t
 Not seeing a review?
 
 1. Someone else might have claimed the review already
-2. It might be a review that's only allow to be done by a coach
+2. It might be a review that only a coach can do
 :::
 
 #### Restrictions
