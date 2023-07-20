@@ -1,0 +1,91 @@
+---
+title: Reviews
+sidebar_position: 2
+---
+
+# Reviews
+
+As a student you learn by doing [exercises](..), but you also learn from seeing how other students solved a problem.
+This is where reviewing comes in
+
+![review overview](/img/docs/reviews/overview.png)
+
+Via the menu item **Reviews** you'll get to the above overview of reviews that are available to pick up.
+Depending on your institute settings you can either pick your own or tackle one randomly.
+
+As a student you'll be able to review exercises that, you've completed in the past or that you've at least handed in.
+
+### Doing reviews
+
+When you've picked up a review you'll see a screen that looks something like this:
+
+![single review](/img/docs/reviews/single.png)
+
+Using the **Repository** or **Zip** buttons you can access the other students exercise.
+Either by viewing it directly in Bitlab or Downloading the whole thing.
+
+Besides basis information about the review you'll also see the review checklist.
+This serves as a guide in knowing what to pay attention to,
+**caution** the more complex the exercise, the more checklist items there will be.
+
+Go through the checklist to see if the other student did the exercise correctly.
+Checking each item as you go.
+
+Did the other student complete everything on the checklist correctly and learn from the exercise?
+Then hit accept on the review, after which the other student will be able to continue.
+
+Did the other student make a mistake in the exercise?
+Then hit the **Issues** button and create an issue in Bitlab to explain to the other student where they need to improve.
+After that hit the needs improvement button, this will reopen the exercise for the other student.
+
+:::info
+Not seeing a review?
+
+1. Someone else might have claimed the review already
+2. It might be a review that's only allow to be done by a coach
+:::
+
+#### Restrictions
+
+To prevent 'cheating' and to promote good behavior, there are a number of restrictions on conducting reviews.
+
+It is not possible to perform a review if you already have 5 credits
+If you check the same person over and over,
+you often become a bit lax and less sharp after a number of reviews.
+As a reviewer, you cannot check a certain reviewee too often in a row!
+:::info
+Example: Suppose Bob has made 6 exercises and Claire has checked 2 of these 6 exercises.
+Now Claire is no longer allowed to review Bob until another student have reviewed Bob a few times.
+So Claire does not appear more than 2 times in the last 6 reviews!
+:::
+
+### Credits
+
+![credits](/img/docs/reviews/credit.png)
+
+The credit system in Jarvis gives balance between making exercises and doing reviews.
+**When you hand in an exercise that costs a credit. When you do a review you gain a credit.**
+
+The maximum amount of credits is capped at 5.
+To limit the amount of time spent doing reviews, instead of doing exercises yourself.
+Just like in a real company you'll spend part of your time validating other people's work,
+but most of your time will be spent doing your own work.
+
+### Review samples
+
+As an institute you want to make sure that students are doing their reviews properly.
+So it's recommended for coaches to try and sample about 10% of all reviews that students do.
+This keeps students accountable as they know their reviews are not happening in a vacuum.
+And it allows you to validate that students are paying enough attention to the quality of each other's work.
+
+Review samples look the same as a normal review, you can select one that Jarvis recommends from the list below the
+normal reviews.
+Optionally you can go to any student's detail page,
+then go down to reviews and sample any specific review that they were involved in.
+Either from the accepted or declined tabs.
+
+![single student review sample](/img/docs/reviews/sample.png)
+
+:::info
+You can only sample reviews that have been completed by other students.
+:::
