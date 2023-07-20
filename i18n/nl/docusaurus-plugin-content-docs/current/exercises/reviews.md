@@ -37,12 +37,17 @@ Heeft de andere student een fout gemaakt bij de exercise?
 Klik vervolgens op de knop **Issues** en maak een probleem aan in Bitlab om aan de andere student uit te leggen waar ze moeten verbeteren.
 Druk daarna op de knop heeft verbetering nodig, hierdoor wordt de oefening opnieuw geopend voor de andere student.
 
-:::info
+:::tip
 Zie je geen review?
 
 1. Mogelijk heeft iemand anders de review al geclaimd
 2. Het kan een review zijn die alleen door een coach mag worden gedaan
  
+:::
+:::info
+Review opgepakt, koffie gaan halen en vergeten af te ronden? 
+Kan gebeuren, dit is niet fijn voor je mede student.
+Hierom worden reviews na 2 uur automatisch weer vrijgegeven
 :::
 
 #### Beperkingen
@@ -87,5 +92,42 @@ Hetzij van de geaccepteerde of geweigerde tabbladen.
 ![review steekproef van een enkele student](/img/docs/reviews/sample.png)
 
 :::info
-Je kunt alleen reviews bekijken die door andere studenten zijn gedaan.
+Je kunt alleen reviews steekproeven die door andere studenten zijn gedaan.
+:::
+
+Bij het accepteren van een review steekproef krijg je de mogelijkheid om feedback te sturen naar zowel de auteur als de reviewer.
+(alleen getoond als Chat binnen Jarvis wordt gebruikt)
+Deze feedback kunnen van elkaar verschillen,
+zodat je feedback op maat kunt geven voor de rol die de persoon heeft gespeeld.
+
+:::note
+Momenteel is het niet mogelijk om een review te accepteren die onterecht is afgewezen,
+de auteur moet de opdracht altijd opnieuw indienen als een review is afgewezen.
+Het afwijzen van een review steekproef dat onterecht een recensie heeft afgewezen, 
+verandert niets aan de status van de oefening voor de auteur
+:::
+
+Bij het afwijzen van een steekproef krijg je ook de mogelijkheid om feedback te sturen naar beide studenten,
+maar bovendien kunt u ook de ernst van het probleem selecteren.
+Deze variëren van minor tot critical,
+met minor betekent alleen de reviewer scherper had kunnen zijn,
+en critical zijn beide studenten maakten ernstige fouten en of toonden nalatigheid.
+
+
+De categorieën zijn als volgt
+
+| Ernst    | Credits afgetrokken | Moet oefening opnieuw doen |
+|----------|----|------------------------|
+| Minor    | 1 | Nee |
+| Normal   | 1 | Ja |
+| Major    | 3 | Ja |
+| Critical | 5 | Ja |
+
+:::caution
+Zowel de auteur als de reviewr krijgen evenveel credits in mindering gebracht. 
+Indien dit niet de bedoeling is, kunt je handmatig de credits aanpassen voor de persoon die u zwaarder (of minder) wilt bestraffen
+:::
+
+:::note
+Na afwijzing van een review steekproef ontvangt de student naast uw feedback ook een kleine melding.
 :::

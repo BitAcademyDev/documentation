@@ -38,11 +38,16 @@ Did the other student make a mistake in the exercise?
 Then hit the **Issues** button and create an issue in Bitlab to explain to the other student where they need to improve.
 After that hit the needs improvement button, this will reopen the exercise for the other student.
 
-:::info
+:::tip
 Not seeing a review?
 
 1. Someone else might have claimed the review already
 2. It might be a review that only a coach can do
+:::
+:::info
+Claimed a review, went to get coffee and forgot to finish it?
+That's not nice for your fellow student, but it happens.
+For this reason reviews are automatically released after 2 hours.
 :::
 
 #### Restrictions
@@ -88,4 +93,40 @@ Either from the accepted or declined tabs.
 
 :::info
 You can only sample reviews that have been completed by other students.
+:::
+
+
+When accepting a review, you get the option of sending feedback to both the author and the reviewer. 
+(only show if Chat within Jarvis is used)
+These feedbacks can be different from each other, 
+allowing you to give taylored feedback for the role the person played in the review.
+
+:::note
+Currently it is not possible to accept a review that has been declined unjustly, 
+the author will always need to submit the assignment again once a review has been declined. 
+Rejecting a review sample that unjustly declined a review will not change the state of the exercise for the author
+:::
+
+When declining a sample you also get the ability to send feedback to both contributors, 
+but on top of this you also get to select a severity of the issue. 
+These range from minor to critical, 
+with minor meaning only the reviewer made a small mistake, 
+and critical being both contributors made grave errors and or showed negligence.
+
+
+The categories are as follows
+
+| Severity | Credits Deducted | Needs to redo exercise |
+|----------|------------------|------------------------|
+| Minor    | 1                | No                     |
+| Normal   | 1                | Yes                    |
+| Major    | 3                | Yes                    |
+| Critical | 5                | Yes                    |
+
+:::caution
+Both the author and the reviewer will be deducted the same amount of credits. In case this is not intended, you can manually adjust the credits for the person you want to penalise more (or less) severely
+:::
+
+:::note
+After declining a review sample the student will in addition to your feedback also receive as small notification.
 :::
