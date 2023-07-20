@@ -12,13 +12,14 @@ sidebar_position: 1
 
 ### Beschrijving
 
-In het universum worden modules zo weergegeven dat studenten een bepaalde richting of track kunnen volgen.
+In het universum kan je al je modules zien en je voortgang daarin.
+De modules worden zo weergegeven dat je een bepaalde richting of track kunnen volgen.
 
 ![Universum](/img/docs/universe/universe.png)
 
 ## Het universum bekijken
 
-We hebben een aantal snelkoppelingen en bedieningselementen geïmplementeerd om het universum te bekijken en te
+Er zijn aantal snelkoppelingen en bedieningselementen geïmplementeerd om het universum te bekijken en te
 navigeren.
 Deze bedieningselementen zijn te vinden in de tabel linksonder met de naam *'Snelkoppelingen'* bij het bekijken van het
 universum.

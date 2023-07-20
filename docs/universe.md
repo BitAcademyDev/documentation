@@ -12,13 +12,14 @@ sidebar_position: 1
 
 ### Description
 
-The universe is where modules are displayed in a way that students can follow a certain direction or track.
+The universe is the place where you can view all your modules and your progress.
+The modules are displayed in a way you can follow a certain direction or track.
 
 ![Universe](/img/docs/universe/universe.png)
 
 ## Viewing the universe
 
-We have implemented some shortcuts and controls to view and navigate the universe, these controls can be found in the bottom left table named *'Shortcuts'* when viewing the universe.
+There are some shortcuts and controls to view and navigate the universe, these controls can be found in the bottom left table named *'Shortcuts'* when viewing the universe.
 
 ### Module attributes
 
