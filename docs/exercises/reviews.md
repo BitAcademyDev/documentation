@@ -10,7 +10,7 @@ This is where reviewing comes in
 
 ![review overview](/img/docs/reviews/overview.png)
 
-Via the menu item **Reviews** you'll get to the above overview of reviews that are available to pick up.
+Via the menu item **Reviews** you'll get to the overview of reviews that are available to pick up.
 Depending on your institute settings you can either pick your own or tackle one randomly.
 
 As a student you'll be able to review exercises that, you've completed in the past or that you've at least handed in.
