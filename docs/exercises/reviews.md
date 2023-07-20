@@ -24,7 +24,7 @@ When you've picked up a review you'll see a screen that looks something like thi
 Using the **Repository** or **Zip** buttons you can access the other students exercise.
 Either by viewing it directly in Bitlab or Downloading the whole thing.
 
-Besides basis information about the review you'll also see the review checklist.
+Besides basic information about the review you'll also see the review checklist.
 This serves as a guide in knowing what to pay attention to,
 **caution** the more complex the exercise, the more checklist items there will be.
 
