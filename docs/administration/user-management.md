@@ -15,14 +15,16 @@ Note that this link is only valid for 2 days. If a user (student or staff member
 time,
 they can request a new link via de 'forgot password' feature on the login screen.
 
-### After creation
+### Status
 
-Not all properties for a student can be set during creation. The following properties only come available after creating
-a student:
+A student can have different statuses in Jarvis which effects various other parts of the system.
 
-- Mentor
-- State
-
+|            |                                                                                                                                   |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Present    | The default and everything just behaves normally                                                                                  |
+| Internship | When a student is away on internship. Jarvis will hide the student from various screens. Attendance will register lawfully absent |
+| Graduated  | The student has finished their studies and will be hidden in Jarvis but retains access.                                           |
+| Stopped    | The student has stopped their education but are still formally enrolled, works similar to Internship.                            |
 
 ### Creating multiple students at once
 
@@ -41,9 +43,9 @@ location and should be moved to another jarvis location, you have to contact sup
 
 ## Staff members
 
-:::info Missing any of these capabilities for yourself? 
+:::info Missing any of these capabilities for yourself?
 
-You can edit your own roles as location admin, which allows you to add and 
+You can edit your own roles as location admin, which allows you to add and
 remove capabilities for your own account.
 
 Not seeing the changes after changing your own roles? Please log out and then back into Jarvis.
@@ -61,9 +63,11 @@ responsibility of managing the location.
 A coach (some institutions might refer to this role as *teacher*) is the most common role to hand out.
 Coaches teach classes and/or guide students their progress.
 Coaches have access to information from students, like the progress, notes, goals and 1-on-1's.
-They can also take actions related to the student. For example: unlocking modules or exercises for a student or forcing a student to redo certain exercises.
+They can also take actions related to the student. For example: unlocking modules or exercises for a student or forcing
+a student to redo certain exercises.
 
-By default, a coach cannot see any students. He/she can see only the students that are in the groups that coach is attached to. So you as a location admin have to attach coaches to a group of students
+By default, a coach cannot see any students. He/she can see only the students that are in the groups that coach is
+attached to. So you as a location admin have to attach coaches to a group of students
 first.
 
 ### Location editor
@@ -75,8 +79,6 @@ The location editor role allows a staff member to edit the universe and the modu
 Jarvis has a feature called the benchmark, which is used for intakes with students before they start their studies.
 The intaker role, allows a staff member to use this feature.
 
-
-
 ## Two-factor
 
 By default, Jarvis requires all staff members to have 2-factor authentication enabled on their accounts.
@@ -87,5 +89,6 @@ as they tend to have access to sensitive information about students.
 If your organisation really does not want to work with 2-factor authentication, this is your risk to take.
 It can be switched off for all staff members via the [feature toggles](feature-toggles.md).
 
-*Note: if a staff member is part of multiple locations, and one of those locations requires two-factor authentication, then the staff
+*Note: if a staff member is part of multiple locations, and one of those locations requires two-factor authentication,
+then the staff
 member has to use two-factor authentication. Regardless of the setting of your location.*
