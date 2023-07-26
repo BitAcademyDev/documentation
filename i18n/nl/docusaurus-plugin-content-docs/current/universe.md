@@ -28,11 +28,11 @@ universum.
 
 In het universum kan een module bepaalde attributen hebben.
 
-| Attribuut        | Beschrijving                                                                                                                                                                                                                                                                                                                                                          | Voorbeeld                                                                 |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Certificaat      | Als er een certificaat beschikbaar is voor de module, wordt dit weergegeven door een kleine gele cirkel met een certificaatpictogram linksboven in een module.                                                                                                                                                                                                        | ![Module certificate](/img/docs/universe/module-certificate.png)          |
-| Opleidingsniveau | Als het opleidingsniveau van een module *'Intermediate'* of *'Advanced'* is, wordt dit weergegeven door een kleine rode cirkel, met een *'+'* of *'++'* rechtsboven van een module.                                                                                                                                                                                   | ![Module education level](/img/docs/universe/module-education-level.png)  |
-| Track manen      | Wanneer een [track](#tracks) gestart kan worden vanuit een module, zal het een maan in een baan eromheen krijgen. Deze maan stelt de track voor die gestart kan worden vanuit de module.<br />Je kunt op een van de manen klikken om te zien welke tracks gestart kunnen worden vanuit de module. Vanuit deze module kan de student bijvoorbeeld drie tracks starten. | ![Module orbiting track moons](/img/docs/universe/module-track-moons.png) |
+| Attribuut        | Beschrijving                                                                                                                                                                                                                                                                                                                                                               | Voorbeeld                                                                 |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Certificaat      | Als er een certificaat beschikbaar is voor de module, wordt dit weergegeven door een kleine gele cirkel met een certificaatpictogram linksboven in een module.                                                                                                                                                                                                             | ![Module certificate](/img/docs/universe/module-certificate.png)          |
+| Opleidingsniveau | Als het opleidingsniveau van een module *'Intermediate'* of *'Advanced'* is, wordt dit weergegeven door een kleine rode cirkel, met een *'+'* of *'++'* rechtsboven van een module.                                                                                                                                                                                        | ![Module education level](/img/docs/universe/module-education-level.png)  |
+| Track manen      | Wanneer een [track](/docs/tracks) gestart kan worden vanuit een module, zal het een maan in een baan eromheen krijgen. Deze maan stelt de track voor die gestart kan worden vanuit de module.<br />Je kunt op een van de manen klikken om te zien welke tracks gestart kunnen worden vanuit de module. Vanuit deze module kan de student bijvoorbeeld drie tracks starten. | ![Module orbiting track moons](/img/docs/universe/module-track-moons.png) |
 
 ## Rolspecifieke details
 
@@ -167,41 +167,4 @@ automatisch de cel die u verplaatst uit met de aangrenzende cellen.
 <div className="flex space-between">
 <img alt="Snapping modules" style={{width: '49%'}} src="/nl/img/docs/universe/snapping-modules.gif"/>
 <img alt="Snapping lines" style={{width: '49%'}} src="/nl/img/docs/universe/snapping-lines.gif"/>
-</div>
-
-#### Tracks
-
-Als je meerdere tracks in het universum hebt, kun je deze markeren voor de student.
-
-Het begin van een track wordt gemarkeerd met een witte gloed. De vereiste modules om de track te voltooien, zijn gemarkeerd in
-geel.
-
-![Frontend-track](/img/docs/universe/track.png)
-
-##### Track editor
-
-<div class="flex space-between">
-Om de track-editor te starten, moet u eerst de bewerkingsmodus inschakelen. Hierna moet u een track selecteren/maken uit de
-drop-down menu rechtsboven.
-Dit toont een nieuwe universe-werkbalk aan de linkerkant genaamd `Track`, hier vindt u alle bedieningselementen voor het bewerken van een
-track.
-Om modules aan een track toe te voegen, moet u het potlood selecteren en op de vereiste modules klikken, zodra u tevreden bent
-kan op de gloeiende knop opslaan drukken om de track op te slaan.
-
-<img alt="Track pencil toolbar" className="margin-left-small" src="/nl/img/docs/universe/tools-track-edit-track.png"/>
-</div>
-
-![Track-editor](/img/docs/universe/track-editor.gif)
-
-<div className="flex space-between">
-Om de startmodule, naam of afbeelding van de track te bewerken, kun je op het potlood met lijnen drukken. Dit opent een dialoogvenster waar
-je de trackinstellingen en details kunt wijzigen.
-
-<img alt="Track potlood met lijnen werkbalk" className="margin-left-small" src="/nl/img/docs/universe/tools-track-edit-details.png"/>
-</div>
-
-<div className="flex space-between margin-top-small">
-Om een track te verwijderen, kunt u op het verwijderpictogram drukken. Dit zal je eerst vragen of je het zeker weet dat je het wilt verwijderen.
-
-<img alt="Track potlood met lijnen werkbalk" className="margin-left-small" src="/nl/img/docs/universe/tools-track-delete.png"/>
 </div>
