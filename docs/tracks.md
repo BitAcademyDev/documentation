@@ -66,7 +66,7 @@ As an editor you have the ability to create and edit tracks.
 <div class="flex space-between">
 To start the track editor, you first need to enable edit mode. After this you need to select/create a track from the
 dropdown menu in the top right.
-This will show a new universe toolbar on the left called `Track`, here you will find all the controls for editing a
+This will show a new universe toolbar on the left called 'Track', here you will find all the controls for editing a
 track.
 To add modules to a track you need to select the pencil, and click on the required modules, once you are satisfied you
 can press the glowing save button to save the track.
