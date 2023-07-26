@@ -49,6 +49,14 @@ Nadat je een track hebt gekozen, lichten de benodigde modules op met een gele kl
 
 - Je kunt de track waaraan je werkt altijd wijzigen door een track te selecteren met behulp van het drop down menu rechtsboven in het universum.
 
+## Certificaat
+
+Zodra u een track heeft voltooid, wordt u gevraagd een nieuwe te selecteren.
+Hier kun je ook een certificaat downloaden van de eerder afgeronde track.
+U kunt het certificaat ook downloaden door het gebruikersmenu rechtsboven te openen en 'Certificaten' te selecteren.
+
+![User menu certificate](/img/docs/tracks/user-menu-certificate.png)
+
 ## Rolspecifieke details
 
 ### Coach

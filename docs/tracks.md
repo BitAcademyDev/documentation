@@ -50,6 +50,14 @@ After choosing a track, the required modules will glow in yellow.
 
 - You can always change the track you are working on, by selecting the track using the drop down menu in the top right of the universe.
 
+## Certificate
+
+Once you have completed a track, you will be prompted to select a new one. 
+Here you can also download a certificate for the previously completed track.
+You can also download the certificate by opening the user menu in the top right, en selecting 'Certificates'.
+
+![User menu certificate](/img/docs/tracks/user-menu-certificate.png)
+
 ## Role specific details
 
 ### Coach
