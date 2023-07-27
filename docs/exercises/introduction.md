@@ -28,7 +28,7 @@ Theory & pratical exercise consists of different component, not every exercise w
 | Learning goals      | What you'll be able to do or understand at the end of the exercise                                                                                      |
 | Techniques          | These are short bits of information often with external links to something related to the exercise. <br/> These can be either new, forbidden or repeat. |
 | Video               | Not everyone learns in the same way, some times you just want to watch a video instead of reading.                                                      |
-| Expected outcome    | For practical exercises an the exercise will show what the expected end result should look like.                                                        |
+| Expected outcome    | For practical exercises an exercise will show what the expected end result should look like.                                                        |
 | Assessment criteria | You made something? Well someone might have to review it. These are the items that person will have to pay attention to.                                |
 
 Additionally on the left hand side you can see some extra info for practical exercises.
@@ -44,8 +44,8 @@ Additionally on the left hand side you can see some extra info for practical exe
 In case of a theory exercise you'll study all the information provided and visit some of the external links for more info.
 
 In case of a practical exercise, the description will contain steps which you'll go through. 
-These steps are ment to guide you on a path to the expected outcome. 
-After completing this, thoroughly testing what you've made you can hand in your exercise.
+These steps are meant to guide you on a path to the expected outcome. 
+After completing this, and thoroughly testing what you've made you can hand in your exercise.
 After handing in, your exercise might be tested by [BLAST](blast).
 If BLAST says it's ok then the exercise might get reviewed by another human,
 until that's done you'll be allowed to continue a few times with the next exercise.
@@ -59,11 +59,11 @@ in which you will take a little quiz individually to verify your comprehension o
 
 This is often used for more theoretical subjects and/or subjects that are not properly verified by practical exercises.
 
-Self diagnostic's often start with a Scenario & Result, after which different types of questions can be asked.
+Self diagnostics often start with a Scenario & Result, after which different types of questions can be asked.
 
 | Type              | Description                                                                                                                                                                                                                  |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Multiple choice   | A question is asked and it up to you to select the *most* correct answer.<br/>Or the scenario contains, a blank spot shown as `BLANK1` for example. <br/>It's up to you to know what needs to go there to get to the result. |
+| Multiple choice   | A question is asked and it up to you to select the *most* correct answer.<br/>Or the scenario contains a blank spot shown as `BLANK1` for example. <br/>It's up to you to know what needs to go there to get to the result. |
 | Connect the dots  | Multiple items are shown on the left, with open slots to their right. <br/>Drag the items above to the correct corresponding item it belongs to e.g. Cow -> Milk                                                             |
 | Fill in the blank | A sentence is given, with parts missing. <br/>Fill these to make a correct sentence, be sure to use terminology used in the previous exercises                                                                               | 
 
@@ -78,7 +78,7 @@ The tabs at the top show us all the extra options.
 ## Example
 
 On the left hand side we can see different examples that have been created as some exercises allow different solutions.
-The *examples* tab allows you to take check an example of how the exercise is supposed to be done.
+The *examples* tab allows you to see an example of how the exercise is supposed to be done.
 ![coach example view](/img/staff/coaches/exercises/coach-example-view.png)
 This can be a great way to quickly figure out the direction to guide your student towards when they ask you a question.
 When an example is listed with the following icon and the relevant feature toggle is enabled, the student will be able
@@ -148,7 +148,7 @@ and the exercise will start once the required number has been reached.
 You can manually override the team member requirements by disbanding a team and then manually enrolling any team you'd
 like. This team doesn't need to adhere to the required team member count.
 This can also be used to deal with uneven group sizes,
-say you have 21 students in a group, and the exercise requires teams of 4, you don't want the last 3 to get stuck,
+say you have 23 students in a group, and the exercise requires teams of 4, you don't want the last 3 to get stuck,
 so you can manually start them as a group of 3.
 
 Note that disbanding a team also removed the repository they were working in.
@@ -162,7 +162,7 @@ they might be forced so seek out a coach to help them understand where they went
 
 There are two ways to view a students self diagnostic. The first one is to go in to the module via the student's
 progress page. The second option is to use the dashboard widget *"Failed self diagnostics"*.
-You'll be able to see the correct answer's 
+You'll be able to see the correct answers 
 (and hide them via the toggle in the top right when going through the quiz with the student).
 
 ![self diagnostic review example](/img/staff/coaches/exercises/self-diagnostic.png)
@@ -172,11 +172,11 @@ After which the student can retake the quiz. Please note the student can get dif
 
 ## Editing self diagnostic
 
-[Self diagnostic's](#self-diagnostic) are designed to test students their knowledge on specific subjects.
+[Self diagnostics](#self-diagnostic) are designed to test students their knowledge on specific subjects.
 For each subject different checks can be created, each check will validate the student's knowledge of the subject.
 
 :::info
-Every time a student start's a self diagnostic quiz, 1 check will be randomly selected from each subject.
+Every time a student starts a self diagnostic quiz, 1 check will be randomly selected from each subject.
 :::info
 
 Each check consists of different questions of [several available types](#self-diagnostic), to help validate the
