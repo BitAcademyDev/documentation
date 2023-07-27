@@ -23,7 +23,7 @@ systeem.
 |              |                                                                                                                                       |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Aanwezig     | De standaard en alles gedraagt zich gewoon normaal                                                                                    |
-| Stage        | Wanneer een student op stage is. Jarvis zal de student voor verschillende schermen verbergen. Aanwezigheidsregistratie wettig afwezig |
+| Stage        | Wanneer een student op stage is. Jarvis zal de student voor verschillende schermen verbergen. De student wordt automatisch geregistreerd als geoorloofd afwezig |
 | Afgestudeerd | De student is klaar met studeren en wordt verborgen in Jarvis, maar behoudt toegang.                                                  |
 | Gestopt      | De student is gestopt met zijn opleiding maar staat nog formeel ingeschreven, werkt vergelijkbaar met Stage.                          |
 
