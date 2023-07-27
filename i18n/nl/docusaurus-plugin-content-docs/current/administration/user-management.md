@@ -59,7 +59,7 @@ Het wordt aangeraden om het principe van het minste privilege te volgen: geef me
 nodig hebben.
 
 Hieronder zullen we de rollen individueel bespreken.
-Houd er rekening mee dat u ook andere medewerkers beheerdersrechten voor de locatie kunt geven, wat handig kan zijn om
+Houd er rekening mee dat je ook andere medewerkers beheerdersrechten voor de locatie kunt geven, wat handig kan zijn om
 de verantwoordelijkheid voor het beheer van de locatie te delen.
 
 ### Coach
