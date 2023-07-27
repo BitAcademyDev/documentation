@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 # Recensies
 
-Als student leer je door [exercises](..) te doen, maar je leert ook door te zien hoe andere studenten een probleem hebben opgelost.
+Als student leer je door [exercises](../exercises) te doen, maar je leert ook door te zien hoe andere studenten een probleem hebben opgelost.
 Dit is waar reviewen om de hoek komen kijken.
 
 ![review overzicht](/img/docs/reviews/overview.png)
