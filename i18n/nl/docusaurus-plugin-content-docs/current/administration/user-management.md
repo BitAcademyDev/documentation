@@ -93,6 +93,5 @@ omdat ze toegang hebben tot gevoelige informatie over studenten.
 Als uw organisatie echt niet wilt werken met tweefactorauthenticatie, is dit uw eigen risico.
 Het kan worden uitgeschakeld voor alle medewerkers via de feature toggles.
 
-Opmerking: als een medewerker deel uitmaakt van meerdere locaties en een van die locaties tweefactorauthenticatie
-vereist, dan moet de medewerker
-tweefactorauthenticatie gebruiken. Ongeacht de instelling van uw locatie.
+Opmerking: als een medewerker deel uitmaakt van meerdere locaties en een van die locaties tweefactorauthenticatie vereist, dan moet de medewerker
+tweefactorauthenticatie gebruiken. Ongeacht de instelling van jouw locatie.
