@@ -102,7 +102,6 @@ Students are regularly asked to rate an exercise and can leave feedback this com
 
 ## Settings
 
-Most of the settings of an exercise/module are part of that content.
 The module contains things like:
 
 * Can a student download a certificate?
