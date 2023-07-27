@@ -25,11 +25,11 @@ There are some shortcuts and controls to view and navigate the universe, these c
 
 In the universe a module can have certain attributes.
 
-| Attribute                 | Description                                                                                                                                                                                                                                                                                                                   | Preview                                                                                     |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Certificate               | When a certificate is available for the module, it will be represented by a small yellow circle, with a certificate icon, on the top left of a module.                                                                                                                                                                        | ![Module certificate](/img/docs/universe/module-certificate.png)                    |
-| Education level           | When the education level of a module is either *'Intermediate'* or *'Advanced'*, it will be represented by a small red circle, with a *'+'* or *'++'* respectively, on the top right of a module.                                                                                                                             | ![Module education level](/img/docs/universe/module-education-level.png)            |
-| Orbiting track moons      | When a [track](#tracks) can be started from a module, it will get an orbiting moon around it. This moon represents the track that can be started from the module.<br />You can click on one of the moons to see what tracks can be started from the module. For example, from this module the student can start three tracks. | ![Module orbiting track moons](/img/docs/universe/module-track-moons.png)           |
+| Attribute                 | Description                                                                                                                                                                                                                                                                                                                        | Preview                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Certificate               | When a certificate is available for the module, it will be represented by a small yellow circle, with a certificate icon, on the top left of a module.                                                                                                                                                                             | ![Module certificate](/img/docs/universe/module-certificate.png)                    |
+| Education level           | When the education level of a module is either *'Intermediate'* or *'Advanced'*, it will be represented by a small red circle, with a *'+'* or *'++'* respectively, on the top right of a module.                                                                                                                                  | ![Module education level](/img/docs/universe/module-education-level.png)            |
+| Orbiting track moons      | When a [track](/docs/tracks) can be started from a module, it will get an orbiting moon around it. This moon represents the track that can be started from the module.<br />You can click on one of the moons to see what tracks can be started from the module. For example, from this module the student can start three tracks. | ![Module orbiting track moons](/img/docs/universe/module-track-moons.png)           |
 
 ## Role specific details
 
@@ -156,41 +156,4 @@ the cell you are moving to adjacent cells.
 <div className="flex space-between">
 <img alt="Snapping modules" style={{width: '49%'}} src="/img/docs/universe/snapping-modules.gif"/>
 <img alt="Snapping lines" style={{width: '49%'}} src="/img/docs/universe/snapping-lines.gif"/>
-</div>
-
-#### Tracks
-
-When you have multiple tracks in your universe you can highlight these for the student.
-
-The start of a track is highlighted with a white glow. The required modules to complete the track are highlighted in
-yellow.
-
-![Frontend track](/img/docs/universe/track.png)
-
-##### Track editor
-
-<div class="flex space-between">
-To start the track editor, you first need to enable edit mode. After this you need to select/create a track from the
-dropdown menu in the top right.
-This will show a new universe toolbar on the left called `Track`, here you will find all the controls for editing a
-track.
-To add modules to a track you need to select the pencil, and click on the required modules, once you are satisfied you
-can press the glowing save button to save the track.
-
-<img alt="Track pencil toolbar" className="margin-left-small" src="/img/docs/universe/tools-track-edit-track.png"/>
-</div>
-
-![Track editor](/img/docs/universe/track-editor.gif)
-
-<div className="flex space-between">
-To edit the start module, name or image of the track, you can press the pencil with lines. This will open a dialog where
-you can change the track settings and details.
-
-<img alt="Track pencil with lines toolbar" className="margin-left-small" src="/img/docs/universe/tools-track-edit-details.png"/>
-</div>
-
-<div className="flex space-between margin-top-small">
-To delete a track, you can press the delete icon. This will ask you if you are certain you want to delete it.
-
-<img alt="Track pencil with lines toolbar" className="margin-left-small" src="/img/docs/universe/tools-track-delete.png"/>
 </div>
