@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Reviews
 
-As a student you learn by doing [exercises](..), but you also learn from seeing how other students solved a problem.
+As a student you learn by doing [exercises](../exercises), but you also learn from seeing how other students solved a problem.
 This is where reviewing comes in
 
 ![review overview](/img/docs/reviews/overview.png)
