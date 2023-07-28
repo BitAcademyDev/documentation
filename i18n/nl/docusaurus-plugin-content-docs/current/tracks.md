@@ -12,7 +12,6 @@ sidebar_position: 7
 | **Feature Toggle**    | Tracks                |
 | **Ingeschakeld door** | Locatie Administrator |
 | **Instelling**        | Uit, Aan              |
-|                       |                       |
 
 ### Beschrijving
 
