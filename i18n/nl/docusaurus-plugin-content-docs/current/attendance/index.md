@@ -12,7 +12,6 @@ sidebar_position: 4
 | **Feature toggle**    | Aanwezigheid          |
 | **Ingeschakeld door** | Locatiebeheerder       |
 | **Instellingen**      | Uit, Groep, Rooster    |
-|                       |                        |
 
 ## Beschrijving
 De aanwezigheidsfeature stelt coaches in staat om de aanwezigheid van studenten bij te houden. Aanwezigheid kan worden geregistreerd voor een hele dag, niet voor delen van de dag.
