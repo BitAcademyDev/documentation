@@ -113,7 +113,7 @@ Streak bevriezingen worden uitgedeeld bij verschillende Streak lengtes.
 
 #### Een Streak bevriezing gebruiken
 
-Streak bevriezingen worden automatisch gebruikt. Als u een bevriezing beschikbaar heeft, wordt deze gebruikt wanneer u
+Streak bevriezingen worden automatisch gebruikt. Als je een bevriezing beschikbaar heeft, wordt deze gebruikt wanneer je
 uw Streak niet heeft [verlengt](#een-streak-verlengen).
 De volgende dag kun je je Streak nog steeds zoals normaal [verlengen](#een-streak-verlengen).
 
