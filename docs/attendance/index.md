@@ -12,7 +12,6 @@ sidebar_position: 4
 | **Feature Toggle**    | Attendance             |
 | **Can be enabled by** | Location Administrator |
 | **Settings**          | Off, Group, Schedule   |
-|                       |                        |
 
 ## Description
 Attendance tracking allows coaches to track the attendance of students. Attendance can be recorded for a full day, not for parts of the day.
