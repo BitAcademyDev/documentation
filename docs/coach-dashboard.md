@@ -30,7 +30,7 @@ The coach pilot widget tracks various actions that a student takes or neglects t
 | Positive                                            | Negative                                                                                                            |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Completing a challenge exercise                     | [Poor attendance](attendance) (if enabled)                                                                          |
-| [Reaching a high streak](gamification) (if enabled) | Not logging in but present in class (if attendance enabled)                                                         |
+| [Reaching a high streak](gamification#streaks) (if enabled) | Not logging in but present in class (if attendance enabled)                                                         |
 |                                                     | Not hand-in, might be stuck on exercise                                                                             |
 |                                                     | Review for same exercise declined too often                                                                         |
 |                                                     | Self diagnostic failed but didn't discuss it with a coach                                                           |
