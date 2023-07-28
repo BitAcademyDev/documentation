@@ -12,7 +12,7 @@ sidebar_position: 1
 
 Exercises is waar je veel van je tijd zal besteden in Jarvis
 
-![Voorbeeld van leerlingvoortgang](/img/staff/coaches/exercises/exercise-view-details.png)
+![Voorbeeld van leerlingvoortgang](/img/docs/exercises/exercise-view-details.png)
 
 Exercises komen in 3 typen
 
@@ -56,7 +56,7 @@ totdat de review gedaan is kan jij door met de volgende exercises.
 Self diagnostics zijn speciale exercises,
 waarbij je individueel een kleine quiz doen om te laten zien dat je een bepaald onderwerp echt snapt.
 
-![self diagnostic review example](/img/staff/coaches/exercises/student-self-diagnostic.png)
+![self diagnostic review example](/img/docs/exercises/student-self-diagnostic.png)
 
 Dit wordt vaak gebruikt bij meer theoretische onderwerpen, of onderwerpen die zich niet goed in de praktijk laten
 toetsen.
@@ -74,7 +74,7 @@ Self diagnostics starten vaak met een scenario en resultaat, waarna verschillend
 Coaches en editors krijgen dezelfde extra opties. Het grootste verschil is dat editors exercises kunnen veranderen, waar
 coaches dat niet kunnen.
 
-![coach exercise view](/img/staff/coaches/exercises/coach-exercise-view.png)
+![coach exercise view](/img/docs/exercises/coach-exercise-view.png)
 
 De tabs bovenaan laten alle extra opties zien.
 
@@ -82,7 +82,7 @@ De tabs bovenaan laten alle extra opties zien.
 
 Links zien we verschillende voorbeelden voor hoe de opdracht opgelost kan worden.
 In de *Example* tab kan je voorbeelden zien van hoe de exercise opgelost kan worden.
-![coach example view](/img/staff/coaches/exercises/coach-example-view.png)
+![coach example view](/img/docs/exercises/coach-example-view.png)
 Hier kan je snel een voorbeeld vinden van hoe je je student kan helpen bij een vraag.
 Als een voorbeeld het volgende icoon heeft, en de feature toggle staat aan, kan een student dit voorbeeld zien wanneer
 de opdracht ingeleverd is.
@@ -122,13 +122,13 @@ Exercise settings bevatten:
 
 Wanneer je naar een student gaat, kan je in het voortgang tab zien hoe ver de student is in het universum.
 Dit is ook hoe de student het universum in Jarvis ziet.
-![student progress example](/img/staff/coaches/exercises/student-progress.png)
+![student progress example](/img/docs/exercises/student-progress.png)
 
 Hier kan je ook een student inschrijven in een module waar ze volgens Jarvis nog geen toegang toe zouden hebben.
 
 Door op een module te klikken waar een student voortgang heeft, kan je de voortgang in de module zien.
 
-![student progress module example](/img/staff/coaches/exercises/student-progress-module.png)
+![student progress module example](/img/docs/exercises/student-progress-module.png)
 
 Afhankelijk van de state van de exercise staat er recht een menu met de volgende opties:
 
@@ -160,14 +160,14 @@ Wanneer een team ontbonden wordt, wordt ook de repo van dit team verwijdert.
 Wanneer een student een self diagnostic faalt kan het zijn dat, afhankelijk van de locatie settings,
 de student naar een coach moet om te zien wat er fout gegaan is.
 
-![student progress self diagnostic example](/img/staff/coaches/exercises/student-progress-self-diagnostic.png)
+![student progress self diagnostic example](/img/docs/exercises/student-progress-self-diagnostic.png)
 
 Er zijn twee manieren om de self diagnostic van een student te bekijken. De eerste is om naar de self diagnostic te gaan
 via de student's voortgang pagina. De tweede optie is via de dashboard widget *"Gefaalde self diagnostics"*.
 Je kan hier de goede antwoorden zien, die je via de toggle rechtsboven kan verbergen wanneer je met de student naar
 de resultaten kijkt.
 
-![self diagnostic review example](/img/staff/coaches/exercises/self-diagnostic.png)
+![self diagnostic review example](/img/docs/exercises/self-diagnostic.png)
 
 Nadat je de quiz met de student hebt bekeken kan je de self diagnostic via het module overzicht heropenen.
 Hierna kan de student de self diagnostic opnieuw maken. Hierbij is het mogelijk dat de student andere vragen krijgt dan
@@ -186,17 +186,17 @@ Elke check bestaat uit verschillende vragen van de [beschikbare types](#self-dia
 
 ### Multiple choice questions
 
-![self diagnostic multiple choice](/img/staff/coaches/exercises/self-diagnostic-multiple-choice.png)
+![self diagnostic multiple choice](/img/docs/exercises/self-diagnostic-multiple-choice.png)
 Hier kan de student 1 antwoord kiezen uit meerdere opties. Meerdere antwoorden kunnen goed zijn.
 
 ### Connect the dots questions
 
-![self diagnostic connect the dots](/img/staff/coaches/exercises/self-diagnostic-connect-the-dots.png)  
+![self diagnostic connect the dots](/img/docs/exercises/self-diagnostic-connect-the-dots.png)  
 Hier moet een student bij elkaar horende concepten naar elkaar slepen.
 
 ### Fill in the blank
 
-![self diagnostic fill in the blank](/img/staff/coaches/exercises/self-diagnostic-fill-in-the-blank.png)   
+![self diagnostic fill in the blank](/img/docs/exercises/self-diagnostic-fill-in-the-blank.png)   
 Hier moet de student een zin afmaken
 
 Hier kan je de zin met placeholders schrijven, waar de placeholders de antwoorden per positie zijn.
