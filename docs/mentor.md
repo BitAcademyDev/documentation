@@ -19,7 +19,7 @@ The mentor page can give you an overview of how all your students are doing in t
 
 1. Level
 2. Attendance
-3. Current Track (if enabled on your location)
+3. Current [Track](/docs/tracks) (if enabled on your location)
 4. When the student completed their last exercise
 5. Who added the last note to the student and when that happend.
 
