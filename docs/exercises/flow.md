@@ -75,7 +75,7 @@ step.
 
 ```mermaid
 flowchart LR
-    A{{"Start exercise"}} --> B("Hand in exercise,\nreview is created")
+    A{{"Start exercise"}} --> B("Hand in exercise &\nreview is created")
     B -- Review declined --> C("Exercise reopened")
     C --> B
     B -- Review accepted --> D{{"Exercise completed"}}
