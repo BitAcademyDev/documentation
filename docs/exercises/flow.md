@@ -70,7 +70,7 @@ After this you can press the hand in button on Jarvis.
 
 ## Exercise flow
 
-This is the flow an exercise goes through in order to be completed. Below the flowchart is a description about every
+This is the flow an exercise goes through in order to be completed. Below the flowchart is a description of every
 step.
 
 ```mermaid
