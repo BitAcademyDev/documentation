@@ -19,7 +19,7 @@ De mentorpagina kan je een overzicht geven van hoe al je leerlingen het doen op 
 
 1. Level
 2. Aanwezigheid
-3. Huidige track (indien ingeschakeld op le locatie)
+3. [Huidige track](/docs/tracks) (indien ingeschakeld op le locatie)
 4. Wanneer de student zijn laatste exercise heeft voltooid
 5. Wie heeft de laatste notitie aan de student toegevoegd en wanneer dat is gebeurd.
 
