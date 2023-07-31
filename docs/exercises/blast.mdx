@@ -1,0 +1,51 @@
+---
+title: BLAST
+sidebar_position: 3
+---
+
+import BlastTestUtils from '@theme/BlastTestUtils';
+
+
+# BLAST
+
+BLAST (or Bit Linting And System Testing), consists of 2 parts [linters](#linting) and [tests](#tests).
+
+Combined these two allow practical code exercises done by students to be automatically reviewed.
+Given the exercise has a strict and well-defined outcome.
+
+## Linting
+> lint was the name originally given to a particular program that flagged
+some suspicious and non-portable constructs (likely to be bugs) in C language source code.
+The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
+
+Jarvis supports linting of various programming languages,
+including some with differing strictness to allow students to slowly get used to it.
+
+Supported profiles:
+- PHP_Lenient
+- HTML_Lenient
+- CSS
+- JS_BROWSER_LENIENT
+- JS_BROWSER_STRICT
+- SQL_LENIENT
+- PYTHON_LENIENT
+- C_SHARP
+- JAVA
+
+## Tests
+BLAST Testing allows us to execute a students code in a secure and sandboxed environment, to validate the outcome.
+All possible languages are shown in the dropdown below.
+
+:::note
+If your language is not supported you can still use a different language to validate aspects of your students code.
+
+E.g. did they not use the forbidden technique or can I find a specific text in their source code.
+:::
+
+### Test utils
+Different languages have different testing utilities to help with quickly writing tests.
+
+To offer more insight into the available utils, you can view them here by selecting a language from the dropdown.
+
+If changes are required contact dev@bit-academy.nl
+<BlastTestUtils></BlastTestUtils>

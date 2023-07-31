@@ -100,7 +100,8 @@ const config = {
                 copyright: `Copyright © ${new Date().getFullYear()} Bit Academy B.V.`,
             },
             prism: {
-                theme: lightCodeTheme
+                theme: lightCodeTheme,
+                additionalLanguages: ['csharp', 'python', 'java', 'php', 'javascript'],
             },
         }),
 };
