@@ -11,7 +11,7 @@ We have 3 different types of exercises:
 - [Practice](introduction)
 - [Self Diagnostic](introduction#self-diagnostic)
 
-This page only applies to the practice exercises, as this does not apply for the theory exercises and self diagnostics.
+This page only applies to the [practice](introduction) exercises, as this does not apply for the [theory](introduction) exercises and [self diagnostics](introduction#self-diagnostic).
 
 ## Handing in an exercise
 
@@ -71,13 +71,7 @@ After this you can press the hand in button on Jarvis.
 This is the flow an exercise goes through in order to be completed. Below the flowchart is a description of every
 step.
 
-```mermaid
-flowchart LR
-    A{{"Start exercise"}} --> B("Hand in exercise &\nreview is created")
-    B -- Review declined --> C("Exercise reopened")
-    C --> B
-    B -- Review accepted --> D{{"Exercise completed"}}
-```
+![Exercise flow diagram](/img/docs/exercises/flow/exercise-flow.drawio.png)
 
 #### Handing in the exercise
 
@@ -88,6 +82,10 @@ either a student or a coach kan pick up.
 
 - Sometimes a review is marked as a coach only review, in this case it can only be reviewed by a coach.
 
+#### BLAST
+
+[BLAST](blast) checks your code before Jarvis creates a review.
+
 #### Review
 
 A [review](reviews) can either be accepted and the exercise will be completed, or declined and the exercise will be
@@ -97,7 +95,7 @@ reopened.
 
 #### Exercise reopened
 
-If the exercise was reopened because of a declined review, the reviewers issues are displayed above the exercise.
+If the exercise was reopened because of a [declined review](reviews) or a [review sample](reviews#review-samples), the reviewers issues are displayed above the exercise.
 You can then fix these issues and hand in the exercise again.
 
 ![Exercise open for improvements](/img/docs/exercises/flow/open-for-improvements.png)
@@ -111,4 +109,3 @@ For example when you have just [handed in](#handing-in-an-exercise) an exercise,
 with '[In review](#review)'. You
 can still move on to the next exercise and also hand it in. By default, you can do this up to 7 times, unless the
 maintainer of the module has changed it.
-
