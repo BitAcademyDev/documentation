@@ -46,7 +46,7 @@ In case of a theory exercise you'll study all the information provided and visit
 In case of a practical exercise, the description will contain steps which you'll go through. 
 These steps are meant to guide you on a path to the expected outcome. 
 After completing this, and thoroughly testing what you've made you can hand in your exercise.
-After handing in, your exercise might be tested by [BLAST](blast).
+After handing in, your exercise might be tested by [BLAST](blast.mdx).
 If BLAST says it's ok then the exercise might get reviewed by another human,
 until that's done you'll be allowed to continue a few times with the next exercise.
 
@@ -91,7 +91,7 @@ visibility
 ## BLAST Tests
 
 The *BLAST-Tests* tab allows you to see the exact code BLAST will run for it's testing scenario's.
-[For more info on that have a look here](blast.md)
+[For more info on that have a look here](blast.mdx)
 
 ## Ratings
 
@@ -111,7 +111,7 @@ The exercise settings contain things like:
 
 * What files should a student hand in?
 * How should a student hand in those files? (Git or file upload)
-* Does [BLAST](blast.md) validate the student's work?
+* Does [BLAST](blast.mdx) validate the student's work?
 * Who should do the review? (No one, other students or coaches)
 
 ## Handling students progress 📈
